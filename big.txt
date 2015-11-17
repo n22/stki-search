@@ -1,0 +1,34 @@
+1 20001 22301 Ilmu Teknik Elektro S-3 2 21001 21301 Teknik Mesin S-3 3 22001 31301 Ilmu Teknik Sipil S-3 4 23001 32301 Ilmu Arsitektur S-3 5 24001 23301 Ilmu Teknik Kimia S-3 6 25001 33301 Teknik Lingkungan S-3 7 26001 25301 Teknik Industri S-3 8 38001 41301 Ilmu Teknik Kelautan S-3 9 45001 11301 Ilmu Fisika S-3 10 47001 14301 Ilmu Kimia S-3 11 49001 13301 Ilmu Statistik S-3 12 55001 51301 Ilmu Komputer S-3 13 20101 22200 Teknik Elektro S-2 14 21101 21200 Teknik Mesin S-2 15 22101 31200 Teknik Sipil S-2 16 23101 32200 Arsitektur S-2 17 24101 23200 Teknik Kimia S-2 18 25101 33200 Teknik Lingkungan S-2 19 26101 25200 Teknik Industri S-2 20 29101 35200 Teknik Geomatika S-2 21 30101 24200 Teknik Fisika S-2 22 38101 41200 Teknologi Kelautan S-2 23 44101 12200 Matematika S-2 24 45101 11200 Fisika S-2 25 47101 14200 Kimia S-2 26 49101 13200 Statistika S-2 27 55101 51200 Teknik Informatika S-2 28 61101 91200 Manajemen Teknik S-2 29 20201 22100 Teknik Elektro S-1 30 21201 21100 Teknik Mesin S-1 31 21207 44100 Transportasi Laut S-1 32 22201 31100 Teknik Sipil S-1 33 23201 32100 Arsitektur S-1 34 24201 23100 Teknik Kimia S-1 35 25201 33100 Teknik Lingkungan S-1 36 26201 25100 Teknik Industri S-1 37 28201 27100 Teknik Material S-1 38 29202 35100 Teknik Geomatika S-1 39 30201 24100 Teknik Fisika S-1 40 33201 37100 Teknik Geofisika S-1 41 35201 36100 Perencanaan Wilayah Dan Kota S-1 42 36201 41100 Teknik Perkapalan S-1 43 36202 42100 Teknik Sistem Perkapalan S-1 44 38201 43100 Teknik Kelautan S-1 45 44201 12100 Matematika S-1 46 45201 11100 Fisika S-1 47 46201 15100 Biologi S-1 48 47201 14100 Kimia S-1 49 49201 13100 Statistika S-1 50 55201 51100 Teknik Informatika S-1 51 57201 52100 Sistem Informasi S-1 52 61205 25101 Manajemen Bisnis S-1 53 90231 34100 Desain Produk S-1 54 90243 22101 Teknik Multi Media dan Jaringan S-1 55 22301 31040 Teknik Sipil D-4 56 20401 22030 Teknik Elektro Komputer Kontrol D-3 57 20404 24030 Metrologi dan Instrumentasi D-3 58 21401 21030 Teknik Mesin D-3 59 22401 31030 Teknik Sipil D-3 60 24401 23030 Teknik Kimia D-3 61 49401 13030 Statistika D-3 dosen mahasiswa dosen	Guru besar	Guru	Pelatih	Pembimbing	Penatar	Pendidik	Pengajar	Pensyarah	Tutor	widyaiswara														
+lulus	Amblas	Berhasil	Celus	Hilang	Jadi	Lolos	Lucut	Menang	Menguap	Molos	Sukses	tercapai	terkabul											
+mengajar	Melatih	Membentuk	Membimbing	Memimpin	Menangani	Menasihati	Menatar	Mendidik	Mengarahkan	Mengasuh	Mengemong	Menggembleg	Menggondok	Menggurui	mengomeli	menguliahi	menunjuki	menuntun	menyuluh	membiasakan	membudayakan			
+institut	-																							
+teknik	cara	gaya	jalan	kiat	metode	modus operandi	proses	siasat	sistem															
+doktor	ahli	pakar gelar	S-3																					
+profesor	Guru besar	mahaguru																						
+master	S-2																							
+tetap	ajek	konsisten	konstan	kukuh	malar	mantap	permanen	regular	stabil	teguh	tunak	mati	pasti	tentu	selalu	selama-lamanya	senantiasa	sepanjang masa	terus	abadi	kekal	langgeng	lestari	baka
+honorer	-																							
+sedang	selagi	sementara	tengah																					
+rektor	-																							
+lektor	-																							
+rekayasa	engineering																							
+skripsi	tugas akhir																							
+riset	penelitian	penyelidikan																						
+dokter	dukun	mantri	medikus	sinse	tabib																			
+perempuan	awewe	betina	bini	cewek	dara	dayang	gadis	hawa	ibu	induk beras	istri	nisa	nyonya	orang belakang	pedusi	puan	wanita							
+lahir	jebrol	ada	berdiri	hadir	jadi	keluar	muncul	timbul	terbentuk	tumbuh	jasmani	keduniaan												
+peneliti	penelaah	peneroka	pengkaji	penyelidik																				
+PNS	pegawai negeri																							
+tugas belajar	cuti belajar	cuti kuliah	kuliah lagi																					
+laki-laki	pria	jantan																						
+gelar	julukan	sebutan	titel	melebarkan	membabarkan	membeberkan	membentangkan	mementangkan	mengembangkan	menghamparkan	menjereng	memperagakan	melaksanakan	melangsungkan	membuat	menyelenggarakan								
+ganjil	gangsal	gasal	witir	abnormal	ajaib	aneh	asing	cemplang	eksentrik	eksotis	gaib	garib	istimewa	luar biasa	pelik	jarang	langka	kaku	kekok	nadir	unik	edan	gelo	gemblung
+genap	bulat	jangkap	komplet	lengkap	penuh	sempurna	tamam	utuh																
+pendidikan	bimbingan	didikan	edukasi	kuliah	kursus	pelajaran	pelatihan	pembelajaran	pemberadaban	pembibitan	pemeliharaan	pencerahan	pengajaran	pengasuhan	penggemblengan	penggodokan	sekolah	tarbiah	tuntunan					
+universitas	perguruan tinggi																							
+tugas	beban	darma	fungsi	kewajiban	pekerjaan	peran																		
+instansi	badan	dinas	institusi	jabatan	jawatan	kantor	lembaga	maktab																
+tanpa	minus	sonder																						
+aktif	berperan	bersungguh-sungguh	getol	giat	rajin	ramai	rancak	ringan tangan	sibuk	tangkas	antusias	berkobar-kobar	bergairah	bergelora	bersemangat	dinamis	energik	membara	bekerja	berdenyut	berfungsi	bergerak	berjalan	beroperasi
+lulusan	alumni	jebolan	keluaran	lepasan	tamatan																			
+penting	bena	berarti	berguna	berharga	berkuasa	bermakna	bermanfaat	bernilai	berpengaruh	esensial	istimewa	krusial	luar biasa	mendesak	pokok	primer	prinsipil	relevan	serius	signifikan	strategis	substansial	urgen	
