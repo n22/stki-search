@@ -1501,7 +1501,6 @@ GEOLOGI
 METODE PENELITIAN
 PRAKT.BIOLOGI UMUM
 BIOLOGI UMUM
-B I O L O G I
 BIOLOGI UMUM
 BIOLOGI UMUM
 OSEANOGRAFI
@@ -1524,7 +1523,7 @@ MIKROBIOLOGI
 BIOLOGI SEL
 PENGELO. WIL. PESISIR
 LIMNOLOGI
-BIO. KONSERVASI
+ KONSERVASI
 PENGANTAR BIOTEKNOLOGI
 PENCEMARAN LINGKUNGAN
 BIOLOGI PERIKANAN (ICHTYOLOGI)
@@ -2531,7 +2530,7 @@ Kekuatan Material Lanjut
 Material Refraktori
 Material Beton
 Mekanika Komposit
-Kompt. Dinamika Fluida
+Dinamika Fluida
 Metalurgi Manufaktur
 Tek. Pengol. Besi dan Baja
 Topik Khusus
@@ -6047,7 +6046,6 @@ Matematika Terapan
 STATISTIKA TERAPAN
 Fisika Terapan
 Konst. Bangunan Sipil
-TUGAS KONTR. BANG.
 Pengetahuan Komputer
 Mekanika Teknik I
 Mekanika Teknik II
@@ -16543,7 +16541,7 @@ ITS SURABAYA
 SD MOJOPAHIT MADIUN
 SMPN 1 MADIUN
 SMAN 1 MADIUN
-Universitas Airlangga
+universitas Airlangga
 Negeri Bogoharjo II
 Muhammadiyah Bergantuan Lorok
 SMA Upres
@@ -16555,11 +16553,11 @@ SDN TAMBAKSARI II
 SDI SWASTA
 SMP
 SMA
-Universitas WR SUPRATMAN
+universitas WR SUPRATMAN
 SMEA Swasta Paramita
 SMP PGRI
 MIN
-Universitas W.R Supratman
+universitas W.R Supratman
 SMAN Kertosono
 SMPN Kertosono
 Pejaten Petang II
@@ -16576,8 +16574,8 @@ ITS
 SMAN 
 SMPN
 SDN No.4/XI
-Univ. Newcastle Upon Tyne
-Univ.of Newcastle Upon Tyne
+university Newcastle Upon Tyne
+universityof Newcastle Upon Tyne
 UNDIP
 sdn
 SMP PGRI
@@ -16593,7 +16591,7 @@ SMP NEGERI I
 SMA NEGERI I MOJOKERTO
 ITS
 ITB
-UNV.OF STRATHCLYDE
+university OF STRATHCLYDE
 ITS
 SMAN II
 SMPN I
@@ -16603,14 +16601,14 @@ ITS
 NEGERI 9
 NEGERI III
 SDN RADEN SALEH II
-UNIV.OF NEWCASTLE
-UNIV.OF MELBOURNE
+universityOF NEWCASTLE
+universityOF MELBOURNE
 ITS
 SMAN 6
 SMPN 3
 SD KHADIJAH
-MEMORIAL UNIVERSITY
-STRATHCLYDE UNIVERSITY
+MEMORIAL university
+STRATHCLYDE university
 ITS
 TOKYO INST.OF TECH.
 TOKYO INST.OF TECH.
@@ -16619,14 +16617,14 @@ SD PANCASILA
 SMP TEUKU UMAR
 STM ST LOUIS
 ITB
-Universitas Diponegoro
-UNV.DE NANTES
-UNV.DE NANTES
+universitas Diponegoro
+university DE NANTES
+university DE NANTES
 ITS
 SMA BERSUBSIDI LOYOLA I
 SMPN V 
 SD PENDRIKAN TENGAH II
-TOTTORI UNIV.
+TOTTORI university
 ITB
 ITS
 ITB
@@ -16648,8 +16646,8 @@ SDN TALUN II
 SDN TEGALLOJI I BANYUWANGI
 SMP NEGERI BANYUWANGI
 SMA NEGERI I BANYUWANGI
-UNIVERSITAS JEMBER
-UNV.LOUIS PASTEUR
+universitas JEMBER
+university LOUIS PASTEUR
 ITB
 ITB
 SMA PPDP IKIP
@@ -16678,7 +16676,7 @@ SMA MUHAMMADIYAH 2
 SDN
 SMP
 SMA 
-UNIVERSITAS WR SUPRATMAN
+universitas WR SUPRATMAN
 SD SEROJA
 SMP NEGERI 12
 SMPP NEGERI
@@ -16715,13 +16713,12 @@ Uiniversitas Indonesia
 SMU ANTARTIKA SIDOARJO
 ISLAM SIDOARJO
 SDN SEPANDE SIDOARJO
-UNIVERSITAS MERDEKA SURABAYA
+universitas MERDEKA SURABAYA
 KPAA Negeri
 SMP
 SDN Kebet
-Universitas Sunan Giri
-UNIV.OF NEWCASTLE
-UNV.OF NEWCASTLE
+universitas Sunan Giri
+NEWCASTLE
 ITS
 UGM
 UGM
@@ -16733,22 +16730,22 @@ SMA LOYOLA
 SMP DOMENICO SAVIO
 SD COR JESU
 ITS
-HIROSHIMA UNIVERSITY
+HIROSHIMA university
 ITB
 ITS
 SMPP
 SMPN 1
 ST YOSEPH B
-UNIVERSITAS AIRLANGGA SURABAYA
-UNIVERSITAS W.R. SUPRATMAN SURABAYA
+universitas AIRLANGGA SURABAYA
+universitas W.R. SUPRATMAN SURABAYA
 ITS
 ITS
 SMAN I
 SMPN I
 SDN I
-UNV.OF STRATHCLYDE
+university OF STRATHCLYDE
 ITS
-Univ Of Strathclyde
+Of Strathclyde
 SDN Gandri
 SMPN Karangjati
 SMAN I Caruban
@@ -16766,8 +16763,8 @@ SEK0LAH TINGGI ILMU KOMUNIKASA
 SDN
 SMP  PGRI
 Dwi Bakti
-HIROSHIMA UNIV.
-HIROSHIMA UNV.
+HIROSHIMA university
+HIROSHIMA university 
 ITS
 SDN GUNUNG SALAK
 SMP NEGERI I Tabanan
@@ -16783,7 +16780,7 @@ ITS Surabaya
 ITS Surabaya
 ITS Surabaya
 PENS ITS Surabaya
-Universitas Airlangga Surabaya
+universitas Airlangga Surabaya
 SMK Berdikari 1 Gubeng Surabaya
 ITS
 ITS
@@ -16801,7 +16798,7 @@ D1 IMKI Yogyakarta
 D1 PAPSI ITS Surabaya
 D1 PIKTI ITS Surabaya
 D1 PAPSI ITS Surabaya
-Universitas Dr. Soetomo Surabaya
+universitas Dr. Soetomo Surabaya
 SMA PGRI 1 Jombang
 SMA Ta'miriyah Krembangan Surabaya
 ITS
@@ -16810,22 +16807,22 @@ ITS
 ITS
 MAN Surabaya
 ITS Surabaya
-Universitas Airlangga Surabaya
+universitas Airlangga Surabaya
 SMKN 1 Surabaya
-Universitas Brawijaya
+universitas Brawijaya
 PENS ITS
 ITS
 ITS
 SMP
 SMA
-UNV.OF NEWCASTLE
+university OF NEWCASTLE
 ITS
-UNIV.OF SYDNEY
+universityOF SYDNEY
 IKIP
 SMA
 SMP
 SRN
-IOWA STATE UNV.
+IOWA STATE university 
 UGM
 UNSW
 ITB
@@ -16861,7 +16858,7 @@ KPAA Negeri Surabaya
 SMPN IX Surabaya
 SDN Klanggru I Surabaya
 ITS
-IOWA STATE UNIV.
+IOWA STATE university
 ITS
 ITB
 ITS
@@ -16880,7 +16877,7 @@ ITS
 SMAN 2
 SRN
 SMPN 1
-CATHLK.UNV.OF LEUVEN
+CATHLK.university OF LEUVEN
 ITS
 SMP TERATAI
 SMA DEWANTARA
@@ -16906,7 +16903,7 @@ SMP Djojobojo
 Sekolah Rendah Katolik Dinojo
 SMA Yos Sudarso
 SD NEGERI II KALITENGAH
-UNV.OF MICHIGAN
+university OF MICHIGAN
 ITB
 SD NEGERI
 ST NEGERI
@@ -16926,7 +16923,7 @@ SD NEGERI
 SMP NEGERI
 KPAA NEGERI
 UJIAN PERSAMAAN SMA
-UNIVERSITAS DR. SOETOMO
+universitas DR. SOETOMO
 SD NEGERI AMBENGAN II
 SMP  Negeri VIII
 SMA NEGERI 9
@@ -16972,7 +16969,7 @@ SURAT KETERANGAN PENGGANTI IJAZAH SD MUHAMADIYAH
 SP NEGERI
 STM PEMBANGUNAN NEGERI
 UJIAN PERSAMAAN SMA
-UNIVERSITAS 17 AGUSTUS 1945
+universitas 17 AGUSTUS 1945
 SMP Surabaya
 SMEA Siang Surabaya
 SD Surabaya
@@ -16993,17 +16990,17 @@ IPB
 SMAN I
 SMPN TAMAN
 SD MUHAMADIYAH XV
-UNIV.PARIS XII ENPC
-UNIV.PARIS XII ENPC
+universityPARIS XII ENPC
+universityPARIS XII ENPC
 ITS
 UI
 ITS
 UI
 ITS
-MICHIGAN STATE UNIV.
-UNIV. STRATHCLYDE
+MICHIGAN STATE university
+university STRATHCLYDE
 ITS
-UNIV.OF TOKYO
+universityOF TOKYO
 TOKYO INST.OF TECH.
 ITB
 AIT
@@ -17018,41 +17015,41 @@ MTs. Nurul Islam Surabaya
 ITS Surabaya
 SMK Yos Sudarso 2 Sidoarjo
 SMP Swasta Al Amin Surabaya
-Univ.Andalas
+universityAndalas
 UNIVERSITA\ POLITECNICA DELLE MARCHE
-UNIVERSITAS POLITECNICA DELLE MARCHE
+universitas POLITECNICA DELLE MARCHE
 ITS
 ITS
 ITS
 ITS
 Asian Institute of Technology
-Universitas Airlangga Surabaya
+universitas Airlangga Surabaya
 SMUN 19 Surabaya
 Poltekes Kemenkes
 ITS
 UGM
 ITS
-UNIVERSITAS INDONESIA
+universitas INDONESIA
 ITS
 UNAIR
 MAN Tlogo Blitar
-Universitas Airlangga Surabaya
+universitas Airlangga Surabaya
 ITS Surabaya
-WISCOUNSIN UNIV.
-WISCOUNSIN UNIV.
+WISCOUNSIN university
+WISCOUNSIN university
 ITB
 ITB
 IOWA
 ITS
-UNV.OF HIROSHIMA
-UNV.OF HIROSHIMA
+university OF HIROSHIMA
+university OF HIROSHIMA
 ITS
 UNAIR
 AUSTRALIA
 ITS
 ITS
-UNV.OF OUEENSLAND
-UNV.OF NEW SOUTH WAL
+university OF OUEENSLAND
+university OF NEW SOUTH WAL
 ITS
 SD Sriwedari
 SMPN I
@@ -17066,20 +17063,20 @@ SD
 ITS
 SMAN JOMBANG
 SMPN JOMBANG
-UNV.COLLEGE LONDON
+university COLLEGE LONDON
 ITS
 SMA
 SMP
 SR
 ITS
-IOWA UNIV.
-IOWA UNIV.
+IOWA university
+IOWA university
 UGM
 SMA
 SMP BAG. B
 SR
 ITS
-HIROSHIMA UNV.
+HIROSHIMA university 
 ITS
 ITB
 ITS
@@ -17093,12 +17090,12 @@ ITS
 SRN
 SMAN 4
 SMPN 2
-UNIV.OF STRATHCLYDE
+universityOF STRATHCLYDE
 ITS
 SMAN
 SMPN
 SDN
-UNIV.OF NEW ORLEANS
+universityOF NEW ORLEANS
 ITS
 SMA
 SMP
@@ -17111,14 +17108,14 @@ ITS
 SRN
 SMPN
 SMAN
-HIROSHIMA UNIV.
+HIROSHIMA university
 ITS
 UNAIR
 ITS
 SMAN VI
 SMPN
 SR KATOLIK ST JOSEF
-UNV.OF QUEENSLAND
+university OF QUEENSLAND
 ITS
 ITS
 SR SRI WEDARI
@@ -17138,17 +17135,16 @@ SRN
 STN
 ITB
 ITS
-UNIVERSITY OF WISCONSIN MADISON
+university OF WISCONSIN MADISON
 ITS
 SRN
 SMP
 SMA
-UNV.OF WISCONSIN
+university OF WISCONSIN
 ITS
-COLORADO STAT UNV.
+COLORADO STAT university 
 ITB
-IOWA STATE UNIV
-IOWA STATE UNV.
+IOWA STATE university 
 ITS
 SMA
 SMP
@@ -17160,7 +17156,7 @@ ITS
 ITS
 SLTP TABANAN
 STM DENPASAR
-UNV.OF MICHIGAN
+university OF MICHIGAN
 ITS
 ITS
 SMP
@@ -17173,35 +17169,35 @@ SMPK St. Josef
 SMAK St. Albertus
 ITS
 ITS
-HIROSHIMA UNIV.
+HIROSHIMA university
 ITS
 ITS
-UNV.OF MINNESOTA
+university OF MINNESOTA
 ITS
 ITS
 ITB
 SMAN III
 SMPN II
 SDN
-WINCOUNSIN UNIV.
-UNIV.OF WINCONSIN
+WINCOUNSIN university
+university OF WINCONSIN
 ITS
 SMA
 SMP
 SD
 ITS
 ITS
-UNV.OF STRATHCLYDE
-UNV.OF WINCOUNSIN
+university OF STRATHCLYDE
+university OF WINCOUNSIN
 ITB
-COLORADO STATE UNV.
-COLORADO STATE UNV.
+COLORADO STATE university 
+COLORADO STATE university 
 ITS
 SD YPK
 SMP YPK
 SMA ST LOUIS
-UNV.TECH COMPIEGNE
-UNV.TECH.COMPIEGNE
+university TECH COMPIEGNE
+university TECH.COMPIEGNE
 ITS
 SD KEDIRI
 SMPN I
@@ -17216,7 +17212,7 @@ ITS
 SMAN 6
 SMPN
 SRN
-MICHIGAN STATE UNIVERSITY
+MICHIGAN STATE university
 ITS
 STMN 1
 SRN Kalikepiting
@@ -17233,20 +17229,20 @@ STMN
 ITS
 UI
 ITS
-MANCHESTER UNIV.
+MANCHESTER university
 KUL LEUVEN
 ITB
-MANCHESTER UNIV.
+MANCHESTER university
 WISCOUNSIN UNIV
 WISCOUNSIN UNIV
 ITS
-WINCONSIN UNIV.
+WINCONSIN university
 ITS
 ITB
 ITS
 SRN
 UIV.OF WINCOUNSIN
-UNIV.OF WINCONSIN
+universityOF WINCONSIN
 ITS
 SMA
 SMP
@@ -17263,10 +17259,10 @@ ITS
 ITB
 ITS
 ITS SURABAYA
-INSA DE LYON UNV.
+INSA DE LYON university 
 IHE-DELFT
 ITS
-HIROSHIMA UNIVERSITY
+HIROSHIMA university
 ITS
 SMAN VI, Surabaya
 SMPN I, Surabaya
@@ -17277,10 +17273,10 @@ SMA
 SMP KANISIUS
 SRN Gamulan I
 Pasca Sarjana UNAIR
-Katholike University Leuven
+Katholike university Leuven
 South Dakota State 
 ITB
-UNIV.WISCONSIN-MADISON
+universityWISCONSIN-MADISON
 WISCONSIN-MADISON
 ITS
 INSA LYON
@@ -17289,7 +17285,7 @@ ITS
 G.R.N PLOSO BOGEN II
 SMP PER1
 SMA II
-HIROSHIMA UNIVERSITY
+HIROSHIMA university
 ITS
 DHOHO
 SMPN I
@@ -17317,14 +17313,14 @@ SMAN III
 SMPN X
 SRN TRUNODJOJO III
 MTC
-UNV.TECH COMPIEGNE
+university TECH COMPIEGNE
 ITS
-UNV.OF STRATHCLYDE
+university OF STRATHCLYDE
 ITS
 SMA
 SMP
 SR
-UNV. HIROSHIMA
+university  HIROSHIMA
 ITS
 ITS
 ITS
@@ -17335,36 +17331,36 @@ ITB
 SMAN 1 BANDUNG
 SMPN 1 MATARAM
 SDN 9 AMPENAN
-Graz University of Technology
+Graz university of Technology
 MI SUMBEREJO
 SMPN SUMBEREJO
 SMAN SUMBEREJO
 PPNs ITS
-CURTIN UNIV.OF TECH
+CURTIN universityOF TECH
 ITS
 SDN TALES II
 SMPN NGADILUWIH
 SMAN 2
-Curtin University of Technology
+Curtin university of Technology
 ITS
 SMA
 SMP
 SD
-Kobe University
-UNIV.WIJAYA KUSUMA SURABAYA
+Kobe university
+universityWIJAYA KUSUMA SURABAYA
 ITB
 ITB
 SD HIKMAH 2 YAPIS
 SMPN 1
 SMAN 2
-The University of Tokyo
+The university of Tokyo
 SDN 472
 Khadijah
 Khadijah
 Unair
 ITS, Surabaya
-Kyoto University, Japan
-Kyoto University, Japan
+Kyoto university, Japan
+Kyoto university, Japan
 UGM
 ITS
 SDN KOMPLEK MANGKURA
@@ -17386,7 +17382,7 @@ SMPN I Sidoarjo
 SMA N 2 Sidoarjo
 Univ Brawijaya
 uNAIR
-Univ. Wijaya Kusuma
+university Wijaya Kusuma
 SD NEGERI LENGKONG 232
 SMP NEGERI 1 BABAT
 SMA NEGERI 1 BOJONEGORO
@@ -17410,7 +17406,7 @@ SD Negeri 2
 SMP Negeri 7
 SMA Negeri 2
 NTUST
-UNIVERSITY OF REGENSBURG
+university OF REGENSBURG
 ITB
 ITS
 SMAN 1
@@ -17422,23 +17418,23 @@ UNSW
 SD NEGERI KERTOSONO
 MTs.
 Dinas Pendidikan Paket C
-RITSUMEIKAN UNIV.
+RITSUMEIKAN university
 ITS
-HIROSHIMA UNIVERSITY
+HIROSHIMA university
 SMA Swasta Remaja Surabaya
 Institut Teknologi Bandung
-Universitas Airlangga
+universitas Airlangga
 ITS
 SDN Cangkrangan II
 SMPN 1
 SMAN 1
-National Taiwan University of Science and Technology
+National Taiwan university of Science and Technology
 ITS
 ITS
 SDN REJOTENGAH II
 SMP N I
 SMAN 2
-Toyohashi University of Technology
+Toyohashi university of Technology
 ITB
 ITB
 SD PRINGSEWU
@@ -17451,42 +17447,41 @@ ITS
 Institut Teknologi Bandung
 ITB
 ITS
-RWTH Aachen University
+RWTH Aachen university
 ITS
 ITS
 ITS
 ITS
-RITSUMEIKAN UNV.
+RITSUMEIKAN university 
 ITS
 SMAN 1
 SMPN 3
 SDN POJOK 1
-Monash University
+Monash university
 SDN GEDANG I
 SLTP NEGERI I PORONG
 SMA NEGERI KREMBUNG
 Sekolah menengah Teknologi Penerbangan
-Universitas Putra Bangsa
+universitas Putra Bangsa
 MTsN Bakalan Rayung Jombang
 ITB
 UGM
 SMAN I KROYA
 SMPN I KEBONARUM
 SDN SUMBEREJO
-University of Strathclyde
-TECHNISCHE UNIVERSITEIT EINDHOVEN
+university of Strathclyde
 TU DELFT
 ITS
 SD Menur Pumpungan V
 SMP Budi Utomo Putra
 ITB
 ITS
-Hiroshima University
+Hiroshima university
 SD TRITUNGGAL
 SMP PRAJA MUKTI
 STM NEGERI I
-SDN 1 Sila
-SMPN 1 Bolo
+
+
 SMAN Sila
 ITATS
 UGM
@@ -17502,10 +17497,10 @@ ITS
 SMAN 5
 SMPN 29
 SDN KALIBATA 2
-Univ. Malaysia Pahang
+university Malaysia Pahang
 ITB
 ITB
-University of Hamburg, Germany
+university of Hamburg, Germany
 SDN Kedawong, Jombang
 SMPN I Diwek, Jombang
 SMAN 2 Jombang
@@ -17529,11 +17524,11 @@ ITS
 SD Mardi Putera
 SMP  Mardi Putera
 STM Negeri II
-HIROSHIMA UNIVERSITY
+HIROSHIMA university
 ITS
 ITS
-Hiroshima University
-UNIV.TEKNOLOGI MALAY
+Hiroshima university
+universityTEKNOLOGI MALAY
 ITS
 SMA
 SLTP
@@ -17550,7 +17545,7 @@ SMP N 29 Surabaya
 SMA N 5 Surabaya 
 Institut Teknologi Bandung
 STM PEMBANGUNAN NEGERI SURABAYA
-UNIVERSITAS W.R. SUPRATMAN SURABAYA
+universitas W.R. SUPRATMAN SURABAYA
 SDN I PELANG LAMONGAN
 SMP PGRI 16 LAMONGAN
 SDN JANGKAR II/309
@@ -17563,12 +17558,12 @@ SD NEGERI Kemayoran 2
 SMP Negeri 12
 SMA NEGERI 21
 SD TRI TUNGGAL III
-THE UNIV.OF TOKYO
+THE universityOF TOKYO
 ITS
 SMA NEGERI 1 DENPASAR
 SMP NEGERI 3 DENPASAR
 SD 2 SARASWATI DENPASAR
-THE UNIV. OF TOKYO
+THE university OF TOKYO
 TOKYO INSTITUTE OF TECHNOLOGY
 TOKYO INSTITUTE OF TECHNOLOGY
 ITS
@@ -17581,9 +17576,9 @@ SMPN 3
 SMAN 3
 ITS
 Universiti Kebangsaan Malaysia
-Monash University
+Monash university
 ITS
-RMIT University
+RMIT university
 UMITS
 UMIST
 ITS
@@ -17610,8 +17605,8 @@ ITS
 SMA
 SMP
 SD
-Kobe University
-Kobe University
+Kobe university
+Kobe university
 UGM
 ITS
 SMA PADMAWIJAYA
@@ -17624,7 +17619,7 @@ UNAIR
 UNESA
 ITB
 ITS
-Queensland University of Technology
+Queensland university of Technology
 ITS
 UNIBRAW
 SDN Dilem 1 Kepanjen
@@ -17634,7 +17629,7 @@ NULL
 SMA Swasta Diponegoro
 SDN Kalisari II-513
 SLTP Swasta Remaja
-Universitas WR. Supratman
+universitas WR. Supratman
 UNAIR
 SMAN III MADIUN
 SMPN I Maospati
@@ -17666,17 +17661,17 @@ ITS
 SMA Negeri 1
 SMPN 5
 SD Tugurejo
-UNIV.HIROSHIMA
+universityHIROSHIMA
 ITB
 ITB
 SMAN I
 SMPN II
 SDN PATRANG I
-Univ. Hiroshima
+university Hiroshima
 SDI SEMOLOWARU
 SMP
 SMA WACHID HASIM 2
-CURTIN UNV.OF TECH.
+CURTIN university OF TECH.
 ITS
 KATOLIK BERSUBSIDI SANTO YOSEP
 katolik bersubsidi st.louis
@@ -17721,11 +17716,11 @@ MTs.
 MAN 
 FKIP UNEJ
 ITS
-HUMBOLDT UNIV.ZU BERLIN
+HUMBOLDT universityZU BERLIN
 UGM
 ITS
-MEMORIAL UNIVERSITY
-MEMORIAL UNIVERSITY
+MEMORIAL university
+MEMORIAL university
 ITS
 JINGGLONG
 SMPN 3 
@@ -17742,12 +17737,12 @@ SMPN BLAHKIUH
 SD DARMASABA
 UGM
 DEPDIKNAS
-UNV.OF NEWCASTLE UK
+university OF NEWCASTLE UK
 ITS
 MIN BOJONEGORO
 MTS BOJONEGORO
 MAN BOJONEGORO
-UNIVERSITAS DR SOETOMO
+universitas DR SOETOMO
 ITS, Surabaya
 ITS, Surabaya
 SMAN 9 Surabaya
@@ -17826,8 +17821,8 @@ SMAN I
 SMPN I
 SDN PUNGGUL
 IAIN
-HIROSHIMA UNIVERSITY
-HIROSHIMA UNIVERSITY
+HIROSHIMA university
+HIROSHIMA university
 ITS
 ITB
 ITS
@@ -17843,15 +17838,15 @@ UGM
 SMAN V DENPASAR
 SMPN I Tegallalang, Gianyar, Bali
 SDN I Keliki, Tegallalang, Gianyar, Bali
-LEEDS UNIV.
-LEEDS UNIV.
+LEEDS university
+LEEDS university
 ITS
 SMA
 SMP
 SD
 TOKYO INST.OF TECH.
 ITS
-UNIV.OF PADERBORN
+universityOF PADERBORN
 UI
 ITS
 SMAN X
@@ -17859,12 +17854,12 @@ SMP PGRI XIV
 SDN BRATANG WETAN II
 ITS
 ITS
-UNV.OF BIRMINGHAM
+university OF BIRMINGHAM
 ITS
 Swasta Baiturrahman
 SLTP Islam Purwoasri Kediri
 SMU Negeri Papar Kediri
-Universitas Sunan Giri Surabaya
+universitas Sunan Giri Surabaya
 ITS
 SMA
 SMP
@@ -17892,7 +17887,7 @@ STM HEGERI MAGETAN
 SD Negeri I Karangploso Malang
 SMP Karangploso Malang
 Malang
-UNIVERSITAS SUNAN GIRI SURABAYA
+universitas SUNAN GIRI SURABAYA
 MADRSAH ALIYAH NEGERI SIDOARJO
 MTsN JETIS PONOROGO
 SD BESUKI SAMBIT PONOROGO
@@ -17910,23 +17905,23 @@ RAMBIPUJI
 SMAN I
 SD NEGERI PLOSO II
 STM Negeri 3 Surabaya
-CURTIN UNIVERSITY
+CURTIN university
 PERTH WESTERN
 ITS
-Curtin University
+Curtin university
 INSA DE RENNES
 INSA DE RENNES
 ITS
 SD NEGERI KIDULDALEM V
 SMP NASIONAL
 SMEA A. YANI
-TECHNISCHE UNIV.BERLIN
+TECHNISCHE universityBERLIN
 TECHNISCHE UNIVERSITEIT DELFT
 TECHNISCHE UNIVERSITEIT DELFT
-Universitas Surabaya
+universitas Surabaya
 SDN MANYAR SABRANGAN II
 PAKET B
-UNV.OF NEWCASTLE UPON TYNE
+university OF NEWCASTLE UPON TYNE
 ITS
 SMAN I
 SMPN I
@@ -17934,12 +17929,12 @@ SD PAWIYATAN DAHA
 SDN TAMBAKREJO I NO .128
 SMP PGRI I SURABAYA
 SMA NEGERI II MOJOKERTO
-UNIVERSITAS WR SUPRATMAN
+universitas WR SUPRATMAN
 MIN
 SMP MAARIF
 SMA MAARIF
-UNIVERSITAS WR SUPRATMAN
-UNV.OF NEW BRUNSWICK
+universitas WR SUPRATMAN
+university OF NEW BRUNSWICK
 ITS
 YAYASAN SEMEN GRESIK
 NAHDLATUL ULAMA II
@@ -17954,8 +17949,8 @@ ITS
 STM SUAR TEKNIKA
 SDN GABUNGAN NO. 2 TANON SRAGEN
 SMPN TANON SRAGEN
-KEIO UNIVERSITY
-KEIO UNIVERSITY
+KEIO university
+KEIO university
 ITS
 SD BHINEKA
 SMPN 1
@@ -17970,7 +17965,7 @@ SMA PPSP IKIP
 SMPK SANTO YOSEF
 SDN KEDURUS III
 ITS
-UNIV. DORTMUND
+university DORTMUND
 UI
 ITS
 SMAN I
@@ -17993,14 +17988,13 @@ SMAN III
 SMPN I WALIKUKUN
 SDN SAWUNGGALING
 SMA Swasta diakui PGRI 2
-UNIV.MONTPELLIER II
+universityMONTPELLIER II
 INPG
 ITS
-Universita W.R. Supratman Surabaya
 SMU Negeri 4 Surabaya
-Curtin University of Technology
-Curtin University of Technology
-Universitas Gadjah Mada
+Curtin university of Technology
+Curtin university of Technology
+universitas Gadjah Mada
 SD NEGERI
 SMP NEGERI I
 MI NEGEI
@@ -18008,9 +18002,9 @@ MTs.
 ITB
 ITS
 Institut Teknologi Sepuluh Nopember
-UNV.OF MOULBORNE
+university OF MOULBORNE
 ITS
-Universitas Indonesia
+universitas Indonesia
 SD NEGERI
 SMP PGRI 3
 SD NEGERI KALIABU I MEJAYAN
@@ -18020,7 +18014,7 @@ ITS
 SMAN 9
 SMPN III
 SDN TEMBOK DUKUH I
-UNIV.BAYANGKARA
+universityBAYANGKARA
 SD NEGERI BUBUTAN VIII NO. 70
 ITS
 ITS
@@ -18038,8 +18032,8 @@ Unair
 SDN I Karangsuko
 SMPN I
 MAN
-OSAKA PREFECT.UNV.
-OSAKA PREFECT.UNV.
+OSAKA PREFECT.university 
+OSAKA PREFECT.university 
 ITS
 MI Islamiyah Madiun
 SMPN 2 Madiun
@@ -18049,7 +18043,7 @@ ITS
 SD NEGERI
 SMP BERDIKARI I
 SMA DHANISWARA
-UNIVERSITAS WR SUPRATMAN
+universitas WR SUPRATMAN
 IPB
 ITB
 IPB
@@ -18080,13 +18074,13 @@ SDN 318 DUKUH MENANGGAL
 SMPN 1 SURABAYA
 SMUN 1 SURABAYA
 ITS
-Universitas Airlangga
+universitas Airlangga
 ITB
 ITS
 SD MAARIF
 SMPN 3
 SMAN 2
-UNV.OF NEWCASTLE UPON TYNE
+university OF NEWCASTLE UPON TYNE
 ITS
 SMAN VI
 SMPN III
@@ -18135,11 +18129,11 @@ ITS
 SD KAPAS IX
 SMP NEGERI 8
 SMA YP TRISILA
-Universitas WR. Supratman Surabaya
+universitas WR. Supratman Surabaya
 SMANEGERI 4 SURABAYA
 TOKYO INST.OF TECH.
 ITS
-Hiroshima University
+Hiroshima university
 SD MUHAMMADIYAH II
 SMP MUHAMMADIYAH I
 SMAN 3 SURABAYA
@@ -18161,8 +18155,8 @@ UI
 SMAN 31
 SMP MARSUDIRINI
 SD MARSUDIRINI
-UNV.OF SOUTHAMPTON
-UNV.OF SOUTHAMPTON
+university OF SOUTHAMPTON
+university OF SOUTHAMPTON
 ITS
 Institut Teknologi Sepuluh Nopember
 Institut Teknologi Sepuluh Nopember
@@ -18182,7 +18176,7 @@ SD HARAPAN MASA
 SMP SWASTA TEUKU UMAR
 SMEA TUMAPEL
 SD NEGERI SUMBERMUJUR II
-UNIVERSITAS WIJAYA KUSUMA SURABAYA
+universitas WIJAYA KUSUMA SURABAYA
 SDN KERTAJAYA XII NO 218 SURABAYA
 SLTPN 6 SURABAYA
 SMAN 1 SURABAYA
@@ -18191,19 +18185,19 @@ SMP NEGERI 18
 SMA PGRI
 SD RADEN PAKU
 SMP RADEN PAKU
-UNV.OF APPL.SC.GSO P
+university OF APPL.SC.GSO P
 SDN CEPU XIV
 CEPU III
 CEPU
-National Taiwan University of Science and Technology
+National Taiwan university of Science and Technology
 ITS
-National Taiwan University of Science and Technology
+National Taiwan university of Science and Technology
 SDN TUKANGAN I
 SMPN 5
 SMAN 1
 UGM
 UGM
-Univ.Flinders 
+universityFlinders 
 SD nNgeri Gunungsahi IV N0. 532
 SMP PUTRA WIJAYA
 SMA PAMARDI PUTRA
@@ -18227,12 +18221,12 @@ ITS
 SMA 1 GEGER
 SMP 1 KEBONSARI
 SDN SUKOREJO
-WORLD MARITIME UNIV.
+WORLD MARITIME university
 ITS
 SMAN I
 SMPN I
 SD TEMPELAN II
-Kobe University
+Kobe university
 SD NEGERI PURWODAI
 SMPN 1 Karangmojo
 Mekar Dian Utama Surabaya
@@ -18240,13 +18234,13 @@ ITS
 SDN Banyu Urip IX
 SMP Praja Mukti
 SMA Sejahtera
-WORD MARITIME UNIV.
+WORD MARITIME university
 ITS
 SMK 45 Surabaya
 SDN Bogoharjo II
 SMP Gatotan II Wijaya Putra
 ITS
-National Taiwan University of Scienece and Technology
+National Taiwan university of Scienece and Technology
 Institut Teknologi Sepuluh Nopember
 Universiti Teknologi Petronas
 SDN KARANGPILANG II
@@ -18254,7 +18248,7 @@ SMP HANG TUAH II
 SMAN 6
 ITS
 ITS
-University of Groningen, NL
+university of Groningen, NL
 ITB
 ITB
 SMAN 10 
@@ -18272,7 +18266,7 @@ SDN I JATISAWIT
 ITB
 ITS
 Institut Teknologi Sepuluh Nopember
-Universitas Airlangga
+universitas Airlangga
 ITB
 ITS
 SMAN 2
@@ -18283,7 +18277,7 @@ Negeri 12
 Negeri 14
 ITS
 SMK PGRI 2 SURABAYA
-UNIVERSITAS BHAYANGKARA SURABAYA
+universitas BHAYANGKARA SURABAYA
 SDN II SRUNI
 SMPN I GEDANGAN 
 ITB
@@ -18301,8 +18295,8 @@ ITS
 SDN ROWOSARI
 SMPN BANYUBIRU
 SMAN AMBARAWA
-UNIV.OF NOTTINGHAM
-UNIV. OF NOTTINGHAM
+universityOF NOTTINGHAM
+university OF NOTTINGHAM
 ITS
 ITS
 UNIBRAW
@@ -18310,7 +18304,7 @@ SD Negeri Malang
 SMP Negeri 3 Malang
 SMA Negeri 3 Malang
 SD Negeri Malang
-Universitas Terbuka
+universitas Terbuka
 ITS
 ITS
 ITB
@@ -18323,7 +18317,7 @@ ITS
 SDN MOJO IV NO. 223
 MUHAMMADIYAH 5
 SMEA NEGERI 3
-UNIVERSITAS WR SUPRATMAN
+universitas WR SUPRATMAN
 MUNIRUL WATHON TUBAN
 MTs N BABAT
 MAN 1 TUBAN
@@ -18332,7 +18326,7 @@ SD Negeri Kalirungkut III/561
 SMP Negeri 23
 SMA Negeri 17
 Unair
-Universitas Wijaya Kusuma Surabaya
+universitas Wijaya Kusuma Surabaya
 Blitar
 Bliltar
 Blitar
@@ -18345,7 +18339,7 @@ ITB
 Institut Teknologi Bandung
 Institut Teknologi Bandung
 STM Khusus Angkatan Laut 
-Universitas Bhayangkara
+universitas Bhayangkara
 SDN SUGIH WARAS BOJONEGORO
 SMP YPPI II
 SMEA DHANISWARA
@@ -18353,7 +18347,7 @@ ITS
 SMA 4
 SMP
 SDN WARU I
-Universitas Wollongong
+universitas Wollongong
 ITS
 Institut Teknologi 10 Nopember Surabaya
 UGM
@@ -18362,8 +18356,8 @@ ITS
 ITS
 ITS
 ITS
-NATIONAL TAIWAN UNIVERSITY OF SCIENCE AND TECHNOLOGY
-Tokyo University of Agriculture and Technology
+NATIONAL TAIWAN university OF SCIENCE AND TECHNOLOGY
+Tokyo university of Agriculture and Technology
 SD NEGERI IWONOKUSUMO
 SMP NEGERI I MOJOSARI
 MAN MOJOSARI
@@ -18384,7 +18378,7 @@ ITB
 SMAN 4
 SDN 7
 SMPN 3
-Universitas Airlangga
+universitas Airlangga
 ITS
 ITS
 UTM
@@ -18399,11 +18393,11 @@ SMAN VI
 SMPN III
 SDN WONOREKO IX
 UNESCO-IHE
-Kyusu University
+Kyusu university
 ITS
-NATIONAL TAIWAN UNIV.
+NATIONAL TAIWAN university
 ITS
-Univ. of Wollongong 
+university of Wollongong 
 SD NEGERI SAWAHAN
 SMP NEGERI 4
 SMA NEGERI 9
@@ -18412,7 +18406,7 @@ SMA 2
 SMP 1
 SDN BANJARAN IV
 ITS
-Universitas Muhamadiyah Malang
+universitas Muhamadiyah Malang
 SDN I 
 SMPN I 
 SMAN 8
@@ -18425,7 +18419,7 @@ STM NEGERI
 ITS
 UNSW
 ITS
-University of New South Wales
+university of New South Wales
 ITS
 ITS
 Ta\miriyah
@@ -18456,10 +18450,10 @@ MTs Miftahul Ulum Pasirian Lumajang
 SMKN 5 Surabaya
 SMKN 5 Surabaya
 SMA Katolik Untung Suropati Krian Sidoar
-Universitas Airlangga
+universitas Airlangga
 Politeknik Telkom
 D1 PASTI ITS Surabaya
-Universitas Airlangga Surabaya
+universitas Airlangga Surabaya
 SMAN Kesamben Jombang
 SMPN Tikung Lamongan
 SMAN 16 Surabaya
@@ -18467,17 +18461,17 @@ STM Negeri 2 Surabaya
 SMU Mujahidin Surabaya
 ITATS Surabaya
 D1 PASTI ITS Surabaya
-Universitas Airlangga Surabaya
-Universitas Diponegoro Semarang
-Universitas Wijaya Kusuma Surabaya
-Universitas Airlangga Surabaya
+universitas Airlangga Surabaya
+universitas Diponegoro Semarang
+universitas Wijaya Kusuma Surabaya
+universitas Airlangga Surabaya
 ITS Surabaya
 PENS ITS Surabaya
 ITS Surabaya
 ITS Surabaya
 ITS Surabaya
 STIE Malangkucecwara Malang
-Universitas Airlangga Surabaya
+universitas Airlangga Surabaya
 D1 PAPSI ITS Surabaya
 ITS Surabaya
 SMU Al Azhar 3 Kedaton Bandar Lampung
@@ -18494,24 +18488,24 @@ SMKN 7 Surabaya
 SMK Darma Siswa 1 Sidoarjo
 ITS Surabaya
 ITS  Surabaya
-Universitas Narotama
+universitas Narotama
 ITS Surabaya
 ITS Surabaya
 PENS ITS
 ITS Surabaya
-Universitas Negeri Surabaya
+universitas Negeri Surabaya
 ITS Surabaya
-Universitas Airlangga
+universitas Airlangga
 ITS Surabaya
 Politeknik Kesehatan Kemenkes Surabaya
 STIESIA Surabaya
-Universitas Airlangga
-Universitas Airlangga
-Universitas Airlangga
-Universitas Airlangga
+universitas Airlangga
+universitas Airlangga
+universitas Airlangga
+universitas Airlangga
 ITS Surabaya
 ITS Surabaya
-Universitas Negeri Malang
+universitas Negeri Malang
 ITS Surabaya
 SMA Bersubsidi Cokroaminoto Madiun
 ITS Surabaya
@@ -18526,7 +18520,7 @@ SMA Paket C Gubeng Surabaya
 SMP Muhammadiyah 5 Karanggeneng Lamongan
 SMA Pembangunan Persiapan Lamongan
 SDN Sidowareg I Plemahan Kediri
-Universitas Bhayangkara Surabaya
+universitas Bhayangkara Surabaya
 SMP Dhaniswara Surabaya
 SMEA Swasta PGRI Caruban Madiun
 SDN III Purwosari WONOASRI MADIUN
@@ -18547,7 +18541,7 @@ D1 PIKTI ITS Surabaya
 SDN Mojosulur II Mojosari
 SMPN I Mojosari
 SMAN III Mojokerto
-Universitas Wijaya Putra surabaya
+universitas Wijaya Putra surabaya
 SMK Berdikari 1 Gubeng Surabaya
 D1 PIKTI ITS Surabaya
 t
@@ -18555,11 +18549,11 @@ g
 d
 n
 D1 PIKTI ITS Surabaya
-Universitas Narotama
+universitas Narotama
 D1 PASTI ITS Surabaya
 D1 PIKTI ITS Surabaya
-Tohoku University
-University Of Tokyo
+Tohoku university
+university Of Tokyo
 ITS
 ITB
 SMUN 19 Surabaya
@@ -18567,8 +18561,8 @@ D1 PIKTI ITS Surabaya
 ITS
 ITS
 Institut Teknologi Sepuluh Nopember
-Tohoku University
-National Taiwan University Of Science And Technology
+Tohoku university
+National Taiwan university Of Science And Technology
 UGM
 ITS
 ITS
@@ -18578,7 +18572,7 @@ ITS
 ITS
 UGM
 ITS
-Universitas Gadjah Mada
+universitas Gadjah Mada
 ITB
 ITB
 ITB
@@ -18595,12 +18589,12 @@ SLTPN 2 Bangkalan
 SMUN I Bangkalan
 PIKTI ITS
 ITS
-Pusan National University
+Pusan National university
 ITS
 ITS
 ITS
-NATIONAL TAIWAN UNIV.OF SCIENCE  TECHN.
-Universitas Airlangga
+NATIONAL TAIWAN universityOF SCIENCE  TECHN.
+universitas Airlangga
 ITB
 ITB
 PIKTI ITS Surabaya
@@ -18632,7 +18626,7 @@ SDN Kauman I
 SMPN I
 SMAN III
 ITS
-Pusan National University
+Pusan National university
 SDN Sumberpetung IV
 SLTPN 2 Kalipare
 SMAN 3 Pagak
@@ -18648,7 +18642,7 @@ SMAN I Kertosono
 ITS
 NTUST
 ITS
-National Taiwan University of Science  Tech.
+National Taiwan university of Science  Tech.
 ITS
 UGM
 ITS
@@ -18721,8 +18715,8 @@ Ujian Persamaan SMA
 SD NEGERI CEMENG BAKALAN 
 SMP Jenggala 
 SEKOLAH MENENGAH ANALIS KESEHATAN
-MANCHESTER UNIV.
-MANCHESTER UNIV.
+MANCHESTER university
+MANCHESTER university
 ITS
 SMA SANTA MARIA
 SMP IMKA/YMCA II
@@ -18731,7 +18725,7 @@ Keputran VI
 Putra Wijaya I
 SMA Negeri 14
 Unair
-Univ. Dr. Soetomo
+university Dr. Soetomo
 SD MIFTAHUL HUDA
 DHARMA BHAKTI
 STM PGRI 1
@@ -18740,20 +18734,20 @@ PGRI 20
 SDN Negeri 07 (Barurambat Kota VII)
 SMP Negeri 2 Pamekasan
 SMA PGRI
-MEMORIAL UNIVERSITY
+MEMORIAL university
 ITS
 SD NEGERI
 SMP KARYA WIDYA I
 SMA NEGERI 4
-GOERG-AUGUST-UNIV.
+GOERG-AUGUST-university
 ITB
 UNIVERSITI SAINS MALAYSIA
 SD NEGERI
 SMP NEGERI 4
 SEKOLAH MENENGAH ANALIS KESEHATAN
 UNSURI
-UNIV.KARLSRUHE
-UNIV.KARLSRUHE
+universityKARLSRUHE
+universityKARLSRUHE
 ITS
 SMAN IV
 SMPN IX
@@ -18777,15 +18771,15 @@ UNAIR
 SDN BUGIH I PAMEKASAN
 SMPN I PAMEKASAN
 SMAN 2 PAMEKASAN
-UNIVERSITAS BRAWIJAYA MALANG
+universitas BRAWIJAYA MALANG
 Krian IV
 Negeri I
 Negeri I
-Universitas Mayjend Sungkono
+universitas Mayjend Sungkono
 ITB
 ITS
 ITS
-UNV.OF SHEFFIELD
+university OF SHEFFIELD
 ITS
 SDN 03 PAGI
 SMPN 85
@@ -18814,14 +18808,14 @@ UJIAN PERSAMAAN SMU
 SD NEGERI MAGETAN
 SMP NEGERI MAGETAN
 SMA PGRI
-Universitas Of Macester
+universitas Of Macester
 ITS
 SDN Randusai
 SMPN Berbek
 SMAN I
 Unair
 Unitomo
-Universitas Indonesia
+universitas Indonesia
 SMEA Negeri I
 SD NEGERI TAMBAK SARI
 SMP NEGERI 9
@@ -18833,8 +18827,8 @@ ITS
 ITS
 SMEA Karya Dharma
 UGM
-UNIV.HIROSHIMA
-UNIV.HIROSHIMA
+universityHIROSHIMA
+universityHIROSHIMA
 ITS
 SMAN I
 SMPN I
@@ -18846,7 +18840,7 @@ UGM
 SMAN I
 SMPN I
 SDN MANGKUJAYAN I
-Univ. Muhammadiyah Surabaya
+university Muhammadiyah Surabaya
 SDN Sidotpo I no 48 Semampir
 SMPN 15 Kenjeran
 SMA Swasta Tercatat Wijaya Putra 3 Tambak Sari
@@ -18856,14 +18850,14 @@ SMP DIAN BUDI SURABAYA
 SANTA MARIA PEKANBARU
 SMPN 1 PEKANBARU
 SMAN 1 PEKANBARU
-UNIVERSITAS W.R SUPRATMAN SURABAYA
-UNV.OF NEWCASTLE U.T
+universitas W.R SUPRATMAN SURABAYA
+university OF NEWCASTLE U.T
 ITS
 SMAN V Surabaya
 SMPN II Bangkalan
 SDN Demangan I Bangkalan
 Institut Teknologi Sepuluh Nopember
-UNV.OF NEW ORLEANS
+university OF NEW ORLEANS
 ITS
 SMA
 SMP
@@ -18882,10 +18876,10 @@ Paket C
 SD NEGERI
 SMP NEGERI
 SMA NEGERI 2IPS
-MEMORIAL UNV.OF NEWF
+MEMORIAL university OF NEWF
 ITS
-University of Newfouland
-MEMORIAL UNIV. OF NEW FOUNDLAND
+university of Newfouland
+MEMORIAL university OF NEW FOUNDLAND
 UGM
 SDN MOJO II
 SMP THAMRIN
@@ -18900,12 +18894,12 @@ MI BANAT
 MTS YAMU
 SM 10 nopember
 UNAIR
-UNV.OF NEWCASTLE
+university OF NEWCASTLE
 ITS
 SMAN II
 SMPN I
 SD KAMPUNGDALEM IV
-TOHOKU UNIVERSITY
+TOHOKU university
 ITS
 ITS
 ITB
@@ -18919,12 +18913,12 @@ SMP ISLAM
 SMPN I
 SDN Jombatan I No 4
 SMAN I
-Universitas Wijaya Kusuma Surabaya
-Universitas Sebelas Maret
-UNIV.OF CARLENTON
+universitas Wijaya Kusuma Surabaya
+universitas Sebelas Maret
+universityOF CARLENTON
 ITS
 TOKYO INST.OF TECH.
-DALHOUSE UNIV.
+DALHOUSE university
 ITS
 SDN DADAPAN I
 SLTP KENDAI I
@@ -18937,11 +18931,11 @@ SMAN 18
 SMP PPSDP IKIP
 SD BHAYANGKARI
 UGM
-UNIV. OF NEW SOUTH WALES
+university OF NEW SOUTH WALES
 ITS
-University of Auckland
-Victoria University of Wellington
-UNV.OF NEWCASTLE
+university of Auckland
+Victoria university of Wellington
+university OF NEWCASTLE
 ITS
 SD MUHAMADIYAH
 SMP MUJAHIDIN
@@ -18954,7 +18948,7 @@ ITS
 SDN GUBENG III
 SMP Gana Putra
 STM Negeri II
-Universitas Widya Gama
+universitas Widya Gama
 Negeri
 SMA YP Trisila
 SMPN 18
@@ -18963,9 +18957,9 @@ Unair
 SD NEGERI KERTOSONO I
 SD NEGERI KERTOSONO I
 SMPN 
-HERIOT WATT UNIV.
+HERIOT WATT university
 ITS
-UNIV.OF NEW SOUTH WALES
+universityOF NEW SOUTH WALES
 ITS
 SDN KEDUNG REJO III
 SMPN 1
@@ -18974,8 +18968,8 @@ Universiti Teknologi PETRONAS
 SDN GALURAN II NO 316
 SMP NEGERI TAMAN
 SMA NEGERI 13
-UNIVERSITAS 17 AGUSTUS 1945
-Universitas DR. Soetomo
+universitas 17 AGUSTUS 1945
+universitas DR. Soetomo
 ITB
 ITB
 SMAN KERTOSONO
@@ -18987,8 +18981,8 @@ UNAIR
 SMAN 16
 SMPN 12
 SD BHAYANGKARA X
-MEMORIAL UNV.OF NFLD
-MEMORIAL UNV.OF NFLD
+MEMORIAL university OF NFLD
+MEMORIAL university OF NFLD
 ITS
 UNAIR
 UI
@@ -18996,10 +18990,10 @@ ITS
 ITB
 ITB
 ITS
-THE UNIV.OF OKLAHOMA
-OKLAHOMA UNIV.
+THE universityOF OKLAHOMA
+OKLAHOMA university
 ITB
-UNV.DE LA ROCHELLE
+university DE LA ROCHELLE
 UGM
 SDN KAMPUNG DALEM 2
 SMP Negeri 1
@@ -19009,12 +19003,12 @@ ITB
 ITS
 ITB
 ITS
-ERASMUS UNV.ROTERDAM
+ERASMUS university ROTERDAM
 ITS
 SMAN 2 PARE
 SMPN I PARE
 SDN JAMBU II PAGU
-TOHUKO UNIVERSITY
+TOHUKO university
 ITS
 Institut Teknologi Sepuluh Nopember
 ITS
@@ -19028,13 +19022,13 @@ ITS
 SDN 256 
 SMP NEGERI 15
 Ujian Persamaan SMA
-UNIVERSITAS WR SUPRATMAN
+universitas WR SUPRATMAN
 UNAIR
 ITS
 SMAK SANTA AGNES
 SMPK BHAKTI
 SDN KABAT I
-UNIV.OF GRONINGEN
+universityOF GRONINGEN
 ITB
 ITS
 UGM
@@ -19043,7 +19037,7 @@ SMAN CURUG
 SMPN CURUG
 SDN KEDU II CURUG
 OSAKA PREFECTURE UN.
-OSAKA PREFECTURE UNIVERSITY
+OSAKA PREFECTURE university
 ITS
 SMAN I MOJOKERTO
 SMPN I MOJOKERTO
@@ -19056,7 +19050,7 @@ SDN WARUNGLEGA
 ITB
 ITS
 ITS
-UNIVERSITY OF BREMEN
+university OF BREMEN
 UGM
 UNIBRAW
 SMA VI
@@ -19069,7 +19063,7 @@ Negeri
 Negeri Dawuhan VII
 Negeri 2
 UJIAN PERSAMAAN SMA
-UNIVERSITAS WR SUPATMAN
+universitas WR SUPATMAN
 SD BHAYANGKARI II
 SMPN 13 Surabaya
 SMAN 10 Surabaya
@@ -19089,7 +19083,7 @@ SMAN
 SMP
 SD
 ITB
-Curtin University of Technology
+Curtin university of Technology
 ITB
 ITS
 SD NEGERI GEBANGKEREP I
@@ -19113,18 +19107,18 @@ UGM
 SMA MUHAMADIYAH I
 SMPN IV
 SD MUHAMADIYAH I
-UNIV.OF NEWCASTLE
+universityOF NEWCASTLE
 ITS
 ITS
 SDN 1
 SMPN 1
 SMAN 1
-UNV.OF NEW BRUNSWICK
-BIRMINGHAM UNIV.
+university OF NEW BRUNSWICK
+BIRMINGHAM university
 INSTITUT TEKNOLOGI SEPULUH NOPEMBER
-TOHOKU UNIVERSITY
+TOHOKU university
 ITS
-TOHOKU UNIVERSITY
+TOHOKU university
 IPB
 ITS
 SMP PPSP IKIP
@@ -19147,11 +19141,11 @@ ITS
 SMAN VI
 SMPN XIX
 SDN KERTAJAYA X
-LANCAASTER UNIV.
+LANCAASTER university
 AIT
 ITS
-Lancaster University
-DELF UNIV.OF TECNOLOGY NEDERLA
+Lancaster university
+DELF universityOF TECNOLOGY NEDERLA
 TU DELF
 TU DELFT
 UDAYANA
@@ -19161,7 +19155,7 @@ SD NEGERI
 SMP NEGERI
 SEKOLAH PERTANIAN PEMBANGUNAN
 UJIAN PERSAMAAN SMA
-UNIVERSITAS WR SUPRATMAN
+universitas WR SUPRATMAN
 ITS
 UGM
 SD CENDRAWASIH
@@ -19172,13 +19166,13 @@ ITS
 Panggul I 223 Kabupaten Trenggalek
 PGRI 2 Panggul Trenggalekl
 SMA Jawa Timur
-Universitas WR. Supratman
-UNIVERSITY OF MANCHASTER
-UNIV. OF MANCHESTER
+universitas WR. Supratman
+university OF MANCHASTER
+university OF MANCHESTER
 ITS
-Universitas Airlangga
-Univ. Wijaya Kusuma Surabaya
-UNIV.OF GRONINGEN
+universitas Airlangga
+university Wijaya Kusuma Surabaya
+universityOF GRONINGEN
 ITB
 ITS
 UI
@@ -19187,11 +19181,11 @@ SMA TARUNA NUSA HRP.
 SMP TARUNA NUSA HRP.
 SD PERTIWI II
 ITS
-Universitas Brawijaya
+universitas Brawijaya
 ITB
 ITS
 ITS
-NANYANG TECN.UNIV.
+NANYANG TECN.university
 ITS
 ITS
 ITS
@@ -19219,7 +19213,7 @@ ITS
 Negeri Bandungrejo I
 ITS
 ITS
-National Taiwan University of Science and Technology
+National Taiwan university of Science and Technology
 SDN LAMONGAN
 SMP NEGERI LAMONGAN
 SMA NEGRI LAMONGAN
@@ -19227,7 +19221,7 @@ D-III ITS
 SDN RANGKAH VIII
 SMP PGRI
 SMA NEGERI 3
-Universitas W.R. SUPRATMAN Surabaya
+universitas W.R. SUPRATMAN Surabaya
 SDN
 SMP RADEN PAKU
 ITS
@@ -19240,16 +19234,16 @@ UJIA PERSAMAAN SMA
 SMP PGRI
 UNSW
 ITS
-UNIV. OF NEW SOUTH WALES
-Purdue University
-University of New South Wales
+university OF NEW SOUTH WALES
+Purdue university
+university of New South Wales
 ITS
 ITB
-Universitas Airlangga
+universitas Airlangga
 SD NEGERI MABAUNG I
 SMPN BARON I
 STM SWASTA-Khusus AL
-MEMORIAL UNV.OF NEW FOUNDLAND
+MEMORIAL university OF NEW FOUNDLAND
 ITS
 SD Hang Tuah X Juanda
 SMP Negeri Juanda
@@ -19265,8 +19259,8 @@ SDN BEDORO
 UGM
 ITS
 ITS
-Kobe University
-Hiroshima University
+Kobe university
+Hiroshima university
 ITS
 National Central Univ, Taiwan
 SMAN 1 SURAKARTA
@@ -19274,7 +19268,7 @@ SDN GONDANGRAWE II
 SMPN 2 GEMOLONG
 ITS
 ITS
-Kumamoto University
+Kumamoto university
 SDN KETABANG III NO. 290
 SMP NEGERI 1 SURABAYA
 SMA NEGERI 5 SURABAYA
@@ -19295,7 +19289,7 @@ D-3 FTI - ITS
 SDN PANGONGSEYAN I
 SMP NEGERI 4 SAMPANG
 SMA NEGERI TORJUN
-Universitas WR Supratman
+universitas WR Supratman
 ITS
 ITS
 Universiti Teknologi Petronas
@@ -19312,7 +19306,7 @@ SD NEGERI
 SMP. YP PRACTICA 
 ITS
 INSTITUT TEKNOLOGI SEPULUH NOPEMBER
-Kumamoto University
+Kumamoto university
 Putra Wijaya IV
 Negeri 4 
 Tamiriyah
@@ -19323,7 +19317,7 @@ SMA NEGERI I
 D-3 ITS
 ITPS
 UNAIR
-UTRECHT UNIVERSITY
+UTRECHT university
 SD PANGUDI LUHUR
 SMP BINTANG LAUT
 SMA ST.ALBERTUS
@@ -19352,7 +19346,7 @@ ITS
 FTSP ITS
 UNAIR
 ITS
-Universitas Indonesia
+universitas Indonesia
 SDN
 SMPN 1
 SMAN
@@ -19381,13 +19375,13 @@ SMPN 13
 MI TPI NURUL HUDA
 Universiti Teknologi Malaysia
 Institut Teknologi Sepuluh Nopember, Surabaya
-SAGA UNIVERSITY, JAPAN
+SAGA university, JAPAN
 ITB
 SDN DYK III
 SMPN Baleendah
 SMAN 3
 ITS
-University of Queensland
+university of Queensland
 SD Dorowati
 SMPN 7
 SMKN 5
@@ -19397,8 +19391,8 @@ ITS
 SDN I KADILANGGONG
 SMPN I WEDI
 SMAN I KLATEN
-Monash University
-Hiroshima University
+Monash university
+Hiroshima university
 SMU Muhammadiyah 2
 SDN Airlangga
 SMP Muhammadiyah 2
@@ -19413,7 +19407,7 @@ SMPN I
 SMAN I
 ITS
 ITS
-National Taiwan University of Science and Technology
+National Taiwan university of Science and Technology
 SDK ABD. UBAID I
 SMPN 4 SURABAYA
 SMA PGRI 8 SURABAYA
@@ -19431,18 +19425,18 @@ ITS
 SDN TERBANSARI I
 SLTP KARTIKA
 SLTA BINA WARGA
-UNIVERSITAS SRIWIJAYA
-UNIVERSITAS WR SUPRATMAN
+universitas SRIWIJAYA
+universitas WR SUPRATMAN
 SDN BUDI KARYA YOGYAKARTA
 SMP NEGERI YOGYAKARTA
 SMK NEGERI 2 DEPOK, SLEMAN
 ITATS
-UNV.OF QUEENSLAND
+university OF QUEENSLAND
 ITB
 SDN 0101 46
 SLTPN I CRP
 SMUN 10
-RMIT University
+RMIT university
 SDN 3 Barurambat  Kota III
 SMPN 2
 SMAN 2
@@ -19450,15 +19444,15 @@ ITS
 ITS
 ITS
 SMU Muhammadiyah 7
-Universitas Wijaya Kusuma
+universitas Wijaya Kusuma
 ITS
-MONASH UNIVERSITY
+MONASH university
 ITB
 UGM
 SDN PANGENJURUTENGAH I
 SMPN 1 Purwokerto
 SMUN I
-National Central University
+National Central university
 MADRASAH IBTIDAIYAH
 SMPN 2 JOMBANG
 MOJOAGUNG
@@ -19466,23 +19460,23 @@ ITB
 SDN SIDAKAYA I
 SMPN 1
 SMUN 1
-Curtin University
-Curtin University of technology
+Curtin university
+Curtin university of technology
 SDI NURUL ISLAM
 MTS. NURUL JADID
 MAN
-UNIV. BRAWIJAYA
-UNIVERSITAS BRAWIJAYA 
+university BRAWIJAYA
+universitas BRAWIJAYA 
 UNMUH Malang
 SDN Sukorame II Kediri
 SMPN I Kediri
 SMKN I Kediri
-FLINDERS UNIVERSITY
+FLINDERS university
 UNAIR
 SMAN 16
 SMPN 19
 SDN SEMOLOWARU I
-Flinders University
+Flinders university
 SDN Demanagan 1
 SMPN 2
 SMUN 1
@@ -19500,10 +19494,10 @@ ITS
 ITS
 ITB
 ITS
-Universitas Rennes 1
+universitas Rennes 1
 ITS
 ITS
-THE UNV.OF SHEFFIELD
+THE university OF SHEFFIELD
 ITS
 ITS
 SD
@@ -19536,7 +19530,7 @@ SMKN 5
 UI
 ITS
 UI
-NATIONAL TAIWAN UNIVERSITY
+NATIONAL TAIWAN university
 ITS
 SDN PACARKELING V
 SMPN 19
@@ -19554,7 +19548,7 @@ ITB
 Institut Teknologi Bandung
 carl von ossietzky universitÃƒÂ¤t oldenburg
 ITS
-Curtin University Of Technology
+Curtin university Of Technology
 Rejoso Peterongan
 Rejoso Peterongan I
 PGRI I
@@ -19566,26 +19560,26 @@ MA NEGERI
 Mardisiwi
 Negeri 18
 Rajasa 
-Poltek Universitas Brawijaya
+Poltek universitas Brawijaya
 SMUN 6 Surabaya
 SMPN 25 Surabaya
 SDN Simomulyo IV No. 101 Surabaya
 SD SUKOREJO I 
 SLTP NEGERI 2 BLITAR
 SMA NEGERI I BLITAR
-UNIVERSITAS BRAWIJAYA MALANG
+universitas BRAWIJAYA MALANG
 ITS
 SDN III
 SMPN I
 SMUN 
-Hokkaido University Japan
+Hokkaido university Japan
 UNAIR
 Petemon VIII/356
 Negeri 2
 Negeri 2
 Gubeng kotamadia Surabaya
 ITS
-NATIONAL TAIWAN UNIV.OF SCIENCE  TECH.
+NATIONAL TAIWAN universityOF SCIENCE  TECH.
 SDN Bandungan 01
 SLTPN 01 
 SMAN 2
@@ -19617,13 +19611,13 @@ ITS
 SDN RANGKAH VII
 SMPN 1
 SMUN V
-NATIONAL TAIWAN UNIVERSITY OF SCIENCE AND TECHNOLOGY
-National Taiwan University of Science and Technology
+NATIONAL TAIWAN university OF SCIENCE AND TECHNOLOGY
+National Taiwan university of Science and Technology
 ITB
 SD THERESIA
 SLPT PL.DOMINICO SAVIO
 SMA KOLESE COYOLA
-Universitas Airlangga
+universitas Airlangga
 Yapita
 Yapita
 ITB
@@ -19642,7 +19636,7 @@ SDN WIYU PACET
 SANTO YUSUP PACET
 PEKERJAAN UMUM
 Technische Universitat Hamburg
-Norwegian University of Science and Technology
+Norwegian university of Science and Technology
 SD NEGERI 1 CEPU
 SLTP NEGERI 3 CEPU
 SMU NEGERI 1 CEPU
@@ -19652,7 +19646,7 @@ SMP dharma Patra YKPP
 SMUN I
 ITS
 ITS
-Universitas Brawijaya Malang
+universitas Brawijaya Malang
 SDN Petemon
 SLTPN I
 SMU Trimurti
@@ -19663,7 +19657,7 @@ SDN
 SMPN 1
 SMAN 1
 ITS
-Kumamoto University
+Kumamoto university
 SD NEGERI KENDANSARI II
 SMP NEGERI 17
 SMK NEGERI 5
@@ -19677,13 +19671,13 @@ Institut Teknologi Bandung
 ITS
 ITS
 ITS
-NATIONAL TAIWAN UNIV. OF SCIENCE  TECHNOLOGY
+NATIONAL TAIWAN university OF SCIENCE  TECHNOLOGY
 SD MARDI PUTERA
 SMPN 6
 SMUN 2
 ITS
-KYUSHU UNIVERSITY
-Kyusu University
+KYUSHU university
+Kyusu university
 Kebondowo II
 Parteker PMK
 SMUN 2 Pamekasan
@@ -19703,37 +19697,37 @@ ITB
 SDN SIMOMULYO III/100
 SMPN 25
 SMAN 5
-KYUSHU UNIV.
+KYUSHU university
 ITS
 SMUN I
 SMPN I
 SDN GUNONG SEKAR IV
-Kyusu University
+Kyusu university
 SDN Kalirungkut IV
 SMPN 12
 SMUN I
 ITS
-De Montfort University
+De Montfort university
 UGM
 SDN SIDOTOPO VIII
 SMPN I
 SMAN II
 Institut Teknologi Bandung
-UNIV.SAINS MALAYSIA
+universitySAINS MALAYSIA
 ITS
-Toyohashi University of Technology
+Toyohashi university of Technology
 ITB
 ITS
 SDN 2 KOTARAJA
 SLTPN 2 SIKUR
 SMU 2 MATARAM
-National Central University
-University of Tsukuba
+National Central university
+university of Tsukuba
 ITS
 INSTUTUT TEKNOLOGI BANDUNG
 ITB
 ITS
-saga University
+saga university
 SDN Percobaan
 SMPN I
 SMUN 5
@@ -19758,8 +19752,8 @@ ITS
 ITS
 ITS
 ITS
-The University of Adelaide
-North Carolina State University
+The university of Adelaide
+North Carolina State university
 SMK NEGERI 3 SURABAYA
 SDN II BADAS
 SLTP NEGERI II PARE
@@ -19770,7 +19764,7 @@ SD Percobaan 2
 SMP 8
 SMA I
 UGM
-University of New South Wales
+university of New South Wales
 SDN Kalirungkut III
 SMPN 6
 SMUN 16
@@ -19786,10 +19780,10 @@ SMP NEGERI I PORONG
 SDN Slerok IV
 SMPN 2 Tegal
 SMUN 1 Tegal
-UNIV.DIPONEGORO
-THE UNIV.OF SYDNEY
+universityDIPONEGORO
+THE universityOF SYDNEY
 ITS
-The University of Sydney
+The university of Sydney
 SDN BARON I
 SMPN I KERTOSONO
 SMAN I KERTOSONO
@@ -19801,12 +19795,12 @@ SDN Bangunsari III
 SMPN I 
 SMUN I
 ITB
-Information and Communications University
+Information and Communications university
 SMP Swasta Islam Raden Paku Surabaya
 ITS
-Monash University
+Monash university
 ITS
-UNIVERSITY OF WESTERN AUSTRALIA
+university OF WESTERN AUSTRALIA
 ITS
 SDN Lawang 05
 SMPN I
@@ -19832,7 +19826,7 @@ ITS
 ITS
 ITS
 ITS
-KUMAMOTO UNIVERSITY
+KUMAMOTO university
 SDN Kertajaya XIII
 SLTPN 6
 SMAN 9
@@ -19842,7 +19836,7 @@ SDN PETROKIMIA
 SMPN I
 SMUN I
 ITS
-HOCHSCHULE DARMSTADT UNIVERSITY
+HOCHSCHULE DARMSTADT university
 ITS
 SD HANGTUAH I
 SMPN 4
@@ -19867,23 +19861,23 @@ PENS ITS Surabaya
 SDI MARYAM SURABAYA
 SMPN 19 SURABAYA
 SMUN 4 SURABAYA
-UNIVERSITAS AIRLANGGA SURABAYA
+universitas AIRLANGGA SURABAYA
 ITS
-Hokkaido University
+Hokkaido university
 STUTTGRAT UNIVERSITAT
 ITS
 Universiti Teknologi Petronas
 ITS
-Ritsumeikan University
+Ritsumeikan university
 SDN I 
 SMPN 4 TRENGGALEK
 SMK I
-National Taiwan University
+National Taiwan university
 ITS
 SDN Jemur Wonosari I
 SLTPN I
 SMAN 5
-Hiroshima University
+Hiroshima university
 NTUST
 ITS
 ITS Surabaya
@@ -19907,10 +19901,10 @@ ITS
 ITS
 UTP
 SMU Giki 3
-UNIVERSITAS GAJAH MADA
-CHALMERS UNIVERSITY OF TECHNOLOGY
+universitas GAJAH MADA
+CHALMERS university OF TECHNOLOGY
 ITS
-National Taiwan University of Science and Technology
+National Taiwan university of Science and Technology
 ITS Surabaya
 ITS SURABAYA
 SDN TanggungKramat
@@ -19918,26 +19912,26 @@ SMPN 2 Jombang
 SMUN 1 Ploso Jombang
 ITS
 ITS
-Hannover University Germany
+Hannover university Germany
 SDN Kadangrejo I
 SLTPN 2
 SMUN I
 ITS
 NTUST
 SMUN 1 
-Universitas WR. Supratman Surabaya
+universitas WR. Supratman Surabaya
 SMK 3 
 D1 PIKTI ITS Surabaya
 ITS
 SDN JEMBER LOR VI
 SMPN 2
 SMUN I 
-univ. louis-pasear strasbourg
+university louis-pasear strasbourg
 Universite de Strasbourg
 SD Pacar Keling VI/187
 SMPN 30
 SMU Bina Taruna
-UNIVERSITAS INDONESIA
+universitas INDONESIA
 Universiti Kebangsaan Malaysia
 PENS ITS
 SDN Jetis 3
@@ -19958,8 +19952,8 @@ ITS Surabaya
 SDN BENDOGERIT I 
 SMPN I
 SMUN I
-UNIVERSITAS INDONESIA
-UNIVERSITAS INDONESIA
+universitas INDONESIA
+universitas INDONESIA
 ITS
 ITS
 ITS
@@ -19967,12 +19961,12 @@ SDN Kendangsari III
 SMPN 17
 SMUN 16
 ITS
-The University of Queensland
-The University of Queenland
+The university of Queensland
+The university of Queenland
 ITS
 UNIVERSITE DE NICE - SOPHIA ANTIPOLIS
 ITS
-Hochschule Darmstadt University Of Applied Science
+Hochschule Darmstadt university Of Applied Science
 Walisongo
 Negeri Simomulyo III/100
 Al-Karimah
@@ -19988,7 +19982,7 @@ SMUN 2
 ITS
 ITS
 D1 PIKTI ITS Surabaya
-Universitas Airlangga
+universitas Airlangga
 UNAIR
 ITB
 ITS
@@ -20003,11 +19997,11 @@ SLTP Nurul Jadid
 SDN ANYELIR II DEPOK
 SLTP NEGERI 5 DEPOK
 SMU NEGERI 2 DEPOK
-Universitas Narotama
+universitas Narotama
 SDN Babarsari
 SLTPN 4 Depok
 SMTI 
-Universitas WR. Supratman
+universitas WR. Supratman
 SD Swasta Kutilang
 SLTPN 33
 SMU YP Trisila
@@ -20016,7 +20010,7 @@ UNAIR
 ITB
 ITS
 ITS
-PUSAN NATIONAL UNIVERSITY
+PUSAN NATIONAL university
 ITS 
 ITS
 ITS
@@ -20024,11 +20018,11 @@ SDN BICAK
 SMP I TROWULAN
 SMK 3 SURABAYA
 ITS
-NATIONAL TAIWAN UNIVERSITY OF SCIENCE AND TECHNOLOGY
+NATIONAL TAIWAN university OF SCIENCE AND TECHNOLOGY
 ITS
 ITB
 ITS
-The University Of Nottingham
+The university Of Nottingham
 SDN GUBENG KLINGSINGAN
 SMP NEGERI 6 SURABAYA
 SMK 3 TAHUN
@@ -20041,12 +20035,12 @@ SLTPN I
 SMUN 2
 ITS
 ITS
-Delft University of Technology
+Delft university of Technology
 MINU Trate
 SMPN I
 SMUN I
 ITS
-Konkuk University
+Konkuk university
 SMKN 5 Gubeng
 SMUN 15 Gayungan Surabaya
 SDN I Kayubulan
@@ -20057,8 +20051,8 @@ MMT - ITS
 SMU Eka Jaya Sukolilo Surabaya
 ITS
 UTP
-University Teknologi Petronas 
-Universitas Brawijaya
+university Teknologi Petronas 
+universitas Brawijaya
 SDN Kertajaya XII
 SLTPN I
 SMUN 5
@@ -20102,13 +20096,13 @@ ITS
 Humboldt Universitat Zu Berlin
 SMUN 9 Genteng
 ITS
-UNIVERSITAS KEMBANGAAN MALAYSIA
+universitas KEMBANGAAN MALAYSIA
 SDN 4 Dasan Agung
 SLTPN 2
 SMUN I
 ITS
 ITS
-Universitas Airlangga Surabaya
+universitas Airlangga Surabaya
 SD YPS Singkole
 SLTP YPS Singkole
 SMU YPS Soroako
@@ -20116,17 +20110,17 @@ ITS
 ITS
 ITS
 ITS
-NATIONAL CHENG KUNG UNIVERSITY
+NATIONAL CHENG KUNG university
 Institut Teknologi Sepuluh Nopember
-National Cheng Kung University
-Universitas Airlangga
+National Cheng Kung university
+universitas Airlangga
 ITS
-NORWEGIAN UNIVERSITY OF SCIENCE AND TECHNOLOGY
+NORWEGIAN university OF SCIENCE AND TECHNOLOGY
 SDN Serayu II
 SMPN 8
 SMUN 3
 UGM
-Toyohashi University of Technology
+Toyohashi university of Technology
 MI-Alhidayah
 MTs. Alhidayah
 SMUN 2
@@ -20136,7 +20130,7 @@ ITS
 ITS
 ITS
 Institut Pertanian Bogor
-Universitas Narotama Surabaya
+universitas Narotama Surabaya
 ITS
 SDN Kaliasin IV No. 283
 SLTPN 12
@@ -20144,7 +20138,7 @@ SMUN 5
 ITS
 ITS
 UNIBRAW
-National Central University
+National Central university
 SDN Kertajaya XII
 SLPTN 12
 SMUN 16
@@ -20162,7 +20156,7 @@ ITB
 ITB
 ITB
 ITB
-Universitas Airlangga
+universitas Airlangga
 SDN Duduk Sampean II
 SLTPN 1
 SMUN 2
@@ -20181,17 +20175,17 @@ SMUN 2
 ITS
 ITS
 ITS
-NATIONAL CHENG KUNG UNIVERSITY
-National Cheng kung University
+NATIONAL CHENG KUNG university
+National Cheng kung university
 SDN. Kaliasin I
 SLTP I 
 SMUN 2
 ITS
-National Taiwan University of Science and Technol
-Kumamoto University
+National Taiwan university of Science and Technol
+Kumamoto university
 ITS
-National Cheng Kung University, Tainan, Taiwan
-Hiroshima University
+National Cheng Kung university, Tainan, Taiwan
+Hiroshima university
 ITS
 TU DELF
 ITS
@@ -20201,7 +20195,7 @@ UNAIR
 SMK NEGERI 1 SURABAYA
 SDN JEMURWONOSARI II NO 525 SURABAYA
 SLTP NEGERI 13 SURABAYA
-Universitas Dr. Soetomo
+universitas Dr. Soetomo
 SDN 1 Prambon
 SMPN 1
 SMAN 1
@@ -20210,7 +20204,7 @@ NTUST
 SMKN 1 Wonokromo
 SD NGAGEL REJO V
 SLTP NEGERI 32 SURABAYA
-UNIVERSITAS KARTINI SURABAYA
+universitas KARTINI SURABAYA
 ITS
 ITB
 ITS
@@ -20225,23 +20219,23 @@ ITS
 Gajahrejo 1
 Gedangan 1
 Kepanjen 1
-Universitas Brawijaya
+universitas Brawijaya
 NTUST
-UNIV.PADJAJARAN
+universityPADJAJARAN
 ITB
 ITS
 ITS
 SDN PAGOTAN I
 SLTPN I GEGER
 SMAN I GEGER
-UNIVERSITAS AIRLANGGA
-Universitas Airlangga
+universitas AIRLANGGA
+universitas Airlangga
 ITS
-NATIONAL TAIWAN UNIVERSITY OF SCIENCE  TECHNOLOGY
-Universitas Airlangga
+NATIONAL TAIWAN university OF SCIENCE  TECHNOLOGY
+universitas Airlangga
 Institut Teknologi Sepuluh Nopember
-University of Twente
-Universitas Airlangga
+university of Twente
+universitas Airlangga
 UNIBRAW
 Negeri Begadungi
 Negeri 4 
@@ -20249,11 +20243,11 @@ Negeri 2
 ITS
 Universiti Teknologi Petronas
 ITS
-NATIONAL TAIWAN UNIV.OF SCIENCE  TECHN.
+NATIONAL TAIWAN universityOF SCIENCE  TECHN.
 ITS
 ITS
 ITS
-NATIONAL TAIWAN UNIV.OF SCIENCE  TECHN.
+NATIONAL TAIWAN universityOF SCIENCE  TECHN.
 Politeknik Negeri Malang
 ITS
 ITS
@@ -20261,7 +20255,7 @@ SDN Banjararum
 SLTPN I
 SMAN 8 
 ITS
-Ritsumeikan University
+Ritsumeikan university
 ITS
 ITB
 ITS
@@ -20280,7 +20274,7 @@ UGM
 ITS
 ITS
 ITS
-KOBE UNIVERSITY
+KOBE university
 ITS
 ITS
 ITS
@@ -20291,15 +20285,15 @@ IPB
 ITS
 Institut Teknologi Sepuluh Nopember
 Institut Teknologi Sepuluh Nopember
-Univ.Padjadjaran
+universityPadjadjaran
 Institut Pertanian Bogor
 ITS
 ITS
 ITS
-NATIONAL TAIWAN UNIVERSITY OF SCIENCE  TECHNOLOGY
-Double Degree ITS-NTUST (National Taiwan University of Science Technology)
+NATIONAL TAIWAN university OF SCIENCE  TECHNOLOGY
+Double Degree ITS-NTUST (National Taiwan university of Science Technology)
 ITS
-National Cheng Kung University
+National Cheng Kung university
 ITS
 ITS
 ITS
@@ -20342,7 +20336,7 @@ SMAN 1
 ITS
 SMKN 5 Surabaya
 SMKN 1 Surabaya
-Universitas Airlangga Surabaya
+universitas Airlangga Surabaya
 ITS Surabaya
 SDN Pucang Anom II Surabaya
 NULL
@@ -20355,20 +20349,20 @@ SMU Dr. Soetomo Sukolilo Surabaya
 ITS Surabaya
 PENS ITS Surabaya
 PENS ITS Surabaya
-Universitas Airlangga Surabaya
-UNIVERSITAS AIRLANGGA SURABAYA
+universitas Airlangga Surabaya
+universitas AIRLANGGA SURABAYA
 SMKN 3 Buduran Sidoarjo
 SMKN 5 Surabaya
 SMP Paket B Mulyorejo Surabaya
-Politeknik Universitas Surabaya
+Politeknik universitas Surabaya
 ITS
-National taiwan University of Science and Technology
+National taiwan university of Science and Technology
 ITS
 ITS
 ITS
 ITS
 STM PGRI II Surabaya
-Universitas Dr. Soetomo Surabaya
+universitas Dr. Soetomo Surabaya
 SLTPN 1 Lengkong Nganjuk
 D1 PIKSI ITS Surabaya
 SMK Swasta Muhammadiyah 3 Klaten
@@ -20377,17 +20371,17 @@ SMP Paket B Rungkut Surabaya
 SDN Donomulyo II Donomulyo Malang
 ITS Surabaya
 ITS
-National Taiwan Univ. of Science  Tech.
+National Taiwan university of Science  Tech.
 ITS
 ITS
 ITS
-National Taiwan University of Science  Technology
+National Taiwan university of Science  Technology
 ITS
 SD Ujian Persamaan Surabaya
 SMPN Purwosari Bojonegoro
 SDN Pucangsimo 02 Bandarkedungmulyo Jomb
 SDN Keputran II No. 333 Surabaya
-Universitas Wijaya Putra Surabaya
+universitas Wijaya Putra Surabaya
 SMU 10 Nopember Bubutan Surabaya
 SMUN 1 Mojokerto
 SMP Paket B Gubeng Surabaya
@@ -20407,15 +20401,15 @@ SD Tarbiyatul Aulad Sukolilo Surabaya
 SMA Swasta IPIEMS Surabaya
 SMU IPIEMS Mulyorejo Surabaya
 ITS
-National Taiwan University of Science  Tech.
+National Taiwan university of Science  Tech.
 ITS
 ITS
 STIESIA Surabaya
 SMEA Karya Dharma Trenggalek
 SMUN 1 Pare Kediri
-Universitas Airlangga Surabaya
+universitas Airlangga Surabaya
 Politeknik Negeri Malang
-Universitas Negeri Malang
+universitas Negeri Malang
 D1 PASTI ITS Surabaya
 D1 PASTI ITS Surabaya
 Poltek Negeri Surabaya
@@ -20430,20 +20424,20 @@ ITS
 SMK PGRI 1 Sidoarjo
 PENS ITS
 ITS
-NATIONAL TAIWAN UNIVERSITY OF SCIENCE  TECHNOLOGY
+NATIONAL TAIWAN university OF SCIENCE  TECHNOLOGY
 ITS
 ITS
-Universitas Airlangga
+universitas Airlangga
 ITS Surabaya
-Universitas Airlangga
+universitas Airlangga
 PENS ITS
 D1 PIKTI ITS Surabaya
 D1 PIKTI ITS Surabaya
 D1 PIKTI ITS Surabaya
 SMAN Prokimal Lampung Utara
 UNTAG Surabaya
-Universitas Sunan Giri Surabaya
-Universitas Narotama Surabaya
+universitas Sunan Giri Surabaya
+universitas Narotama Surabaya
 SPG Negeri 1 Surabaya
 SMEA Swasta Brawijaya Wonokromo Surabaya
 SMAN 15 Surabaya
@@ -20455,7 +20449,7 @@ PENS ITS Surabaya
 ITS Surabaya
 ITS Surabaya
 SMK PGRI 4 Surabaya
-Universitas Narotama
+universitas Narotama
 ITS
 ITS
 SDN Kutisari II
@@ -20478,8 +20472,8 @@ ITS
 ITS Surabaya
 SDN No. II Pamotan Rembang
 UPN "Veteran" Jawa Timur Surabaya
-Universitas Airlangga
-Universitas Negeri Surabaya
+universitas Airlangga
+universitas Negeri Surabaya
 PASTI ITS Surabaya
 D1 PIKTI ITS Surabaya
 SMK Muhammadiyah I Nganjuk
@@ -20491,12 +20485,12 @@ SMK Berdikari 2 Surabaya
 SMK 45 Surabaya
 SLTPN 30 Surabaya
 ITS Surabaya
-Universitas Negeri Surabaya
+universitas Negeri Surabaya
 SMKN 5 Surabaya
 SMA Paket C Gubeng Surabaya
 STIE WILWATIKTA
 SMUN 9 Surabaya
-Universitas Airlangga Surabaya
+universitas Airlangga Surabaya
 STM 45 Surabaya
 STM Swasta Sinar Bakti Trenggalek
 SMA Swasta Muhammadiyah 4 Lamongan
@@ -20508,8 +20502,8 @@ ITB
 ITB
 ITB
 SMUN 19 Surabaya
-Universitas Gadjah Mada
-Universitas Airlangga
+universitas Gadjah Mada
+universitas Airlangga
 SDN 02
 SMPN 01
 SMAN 01
@@ -20520,12 +20514,12 @@ ITB
 LP3I Surabaya
 MTs. Al Ihsani Podoroto Jombang
 MTs. Al Yakin Pungpungan Kalitidu Bojone
-Universitas Airlangga Surabaya
-Universitas Airlangga Surabaya
+universitas Airlangga Surabaya
+universitas Airlangga Surabaya
 D1 PIKTI ITS Surabaya
-Universitas Pembangunan Nasional Veteran Jawa Timur
+universitas Pembangunan Nasional Veteran Jawa Timur
 ITS
-Universitas Gadjah Mada
+universitas Gadjah Mada
 ITS
 UGM
 SDN 10 Mataram
@@ -20546,7 +20540,7 @@ SMAN 13
 ITS
 Asian Institute of Technology Thailand
 ITS Surabaya
-Universitas Airlangga
+universitas Airlangga
 ITB
 ITB
 SDK Marsudirin
@@ -20565,7 +20559,7 @@ ITS Surabaya
 SMU Swasta Dhaniswara Surabaya
 STIESIA Surabaya
 ITS Surabaya
-Universitas Airlangga Surabaya
+universitas Airlangga Surabaya
 SMU Barunawati Pabean Cantian Surabaya
 Politeknik Negeri Malang
 SMA Swasta Muhammadiyah 2 Surabaya
@@ -20584,8 +20578,8 @@ SMPN I
 SMAN I
 ITS
 ITS
-Universitas Airlangga
-Universitas Airlangga
+universitas Airlangga
+universitas Airlangga
 PPNS Surabaya
 SDN Pepelegi I
 SLTPN I
@@ -20608,15 +20602,15 @@ SMAN I
 ITS
 ITS
 D1 PIKTI ITS Surabaya
-Universitas Airlangga Surabaya
+universitas Airlangga Surabaya
 SMUN 4 Sidoarjo
 D1 PIKTI ITS Surabaya
 D1 PIKTI ITS Surabaya
-Universitas Hang Tuah Surabaya
-Universitas Putra Bangsa Surabaya
+universitas Hang Tuah Surabaya
+universitas Putra Bangsa Surabaya
 SMA Swasta PGRI 1 Prajuritkulon Mojokert
 PENS ITS Surabaya
-Universitas Airlangga Surabaya
+universitas Airlangga Surabaya
 ITS Surabaya
 D1 PIKTI ITS Surabaya
 SDN Simokerto I
@@ -20641,57 +20635,57 @@ SLTPN 2 Bangkalan
 SMUN I Bangkalan
 PIKTI ITS
 ITS
-Pusan National University
+Pusan National university
 SMA Swasta Wachid Hasjim 2 Sukolilo Sura
-Universitas Airlangga Surabaya
+universitas Airlangga Surabaya
 STIE Ahmad dahlan Jakarta
-Universitas PGRI Adi Buana Surabaya
-Universitas Airlangga Surabaya
+universitas PGRI Adi Buana Surabaya
+universitas Airlangga Surabaya
 SD Kemala Bhayangkari I Surabaya
 SLTP Negeri 1 Surabaya
 SMU Negeri 6 Surabaya
-Universitas Airlangga Surabaya
-Universitas Putra Bangsa Surabaya
+universitas Airlangga Surabaya
+universitas Putra Bangsa Surabaya
 SD Kemala Bhayangkari 9 Surabaya
 SLTP Negeri 5 Surabaya
 SMA Negeri 7 Surabaya
-Universitas Airlangga
-Universitas Airlangga Surabaya
-Universitas Wijaya Kusuma Surabaya
+universitas Airlangga
+universitas Airlangga Surabaya
+universitas Wijaya Kusuma Surabaya
 ITS Surabaya
-Universitas Airlangga Surabaya
-Universitas Negeri Surabaya
-Universitas Negeri Surabaya
-Universitas Airlangga Surabaya
-Universitas Negeri Surabaya
+universitas Airlangga Surabaya
+universitas Negeri Surabaya
+universitas Negeri Surabaya
+universitas Airlangga Surabaya
+universitas Negeri Surabaya
 SMKN 1 Madiun
 MAN 3 Kediri
-Universitas Negeri Surabaya
+universitas Negeri Surabaya
 PENS ITS
 SDN Kauman I
 SMPN I
 SMAN III
 ITS
-Pusan National University
+Pusan National university
 SDN Wonorejo 274
 ITS
-Universitas Airlangga
+universitas Airlangga
 INT.INST.FOR INF/IHE
 ITS
 SDN SENDANGREJO
 SMPN NGIMBANG
 SMAN 1
-KYUSHU UNIVERSITY
-UNIV.KARLSRUHE
+KYUSHU university
+universityKARLSRUHE
 ITS
 UI
 ITS
 SMAN 3
 SMPN 3
 SDN JODIPAN I
-LANCESTER UNIV.
+LANCESTER university
 ITS
-Monash University
+Monash university
 Maryam
 Tarbiyatul Aulad
 Islam Raden Paku
@@ -20706,7 +20700,7 @@ ITB
 SD NEGERI
 SMP RADEN PAKU
 UJIAN PERSAMAAN SMA
-UNIVERSITAS WR SUPRATMAN
+universitas WR SUPRATMAN
 Institut Keguruan dan Ilmu Pendidikan Malang
 ITS
 ITS
@@ -20721,7 +20715,7 @@ ITS
 SDN BURENGAN II
 SMP NEGERI 3 
 SMA NEGERI 3
-UNIVERSITAS MUHAMMADIYAH JEMBER
+universitas MUHAMMADIYAH JEMBER
 ITB
 UI
 SMN 6
@@ -20732,17 +20726,17 @@ ITS
 ITS
 STIE STIKUBANK
 SMAN 1
-CARLETON UNIV.
-CALETON UNIV.
+CARLETON university
+CALETON university
 ITS
 SMAN 18
 SMP PROYEK PERINTIS
 SD PROYEK PERINTIS SEKOLAH PEMBANGUNAN
 Kabupaten Bojonegoro
 SMA N 1 SUMBERREJO
-HOCHSHULE DARMSTADT UNIV.
+HOCHSHULE DARMSTADT university
 ITS
-UNIVERSITY OF NEW SOUTH WALES
+university OF NEW SOUTH WALES
 UNSW
 ITS
 SDN BALONGSARI I
@@ -20757,20 +20751,20 @@ SMP MUHAMADYAH II
 MUHAMMADYAH II 
 SDN JOMBANG IV
 SMP DARUL ULUM 2
-UNIV. OF TWENTE
+university OF TWENTE
 ITS
 ITS
 ITS
 SMA MUHAMMADIYAH I BOYOLALI
 SMPN I SIMO BOYOLALI
 SDN SIMO
-UNIVERSITY MALAYSIA PAHANG
-UNIV.NEGERI MALANG
+university MALAYSIA PAHANG
+universityNEGERI MALANG
 UNAIR
 MA MUJAHIDIN
 MTs MUJAHIDIN
 SDN 261
-Universitas Merdeka Malang
+universitas Merdeka Malang
 UBAYA
 SMAN 1 
 SD NEGERI
@@ -20786,18 +20780,18 @@ SMAN 2
 SMPN NGIMBANG
 SDN KAMBANGAN
 ITS
-TOHOKU UNIVERSITY
-TOHOKU UNV.
+TOHOKU university
+TOHOKU university 
 ITS
-Tohoku University
+Tohoku university
 INDRAJAYA I
 MUHAMMADIYAH V
 DIPONEGORO
-UNIVERSITAS AIRLANGGA
+universitas AIRLANGGA
 ITB
 ITS
-DALHOUSIE UNIVERSITY
-DALHOUSIE UNIV.
+DALHOUSIE university
+DALHOUSIE university
 ITS
 UNAIR
 UNIBRAW
@@ -20814,18 +20808,18 @@ UNEJ
 SMAN I
 SMPN I
 SDN CANDIREJO I
-Universitas Negeri Malang
-CURTIN UNIV.OF TECHNOLOGI
+universitas Negeri Malang
+CURTIN universityOF TECHNOLOGI
 ITB
 ITS
 SMA
 SMP
 IKIP 
-UNIV. WIJAYA KUSUMA
+university WIJAYA KUSUMA
 SDN KETABANG
 SMPN 9
 SMAN 5
-Universitas Negeri Malang
+universitas Negeri Malang
 UI
 ITS
 SMAN PANDAAN
@@ -20837,8 +20831,8 @@ ITS
 SMAN I SIDOARJO
 SMPN PORONG
 SDN GEDONGAN I
-Osaka Prefecture University
-CRANFIELD UNIV.
+Osaka Prefecture university
+CRANFIELD university
 ITS
 UNAIR
 UNAIR
@@ -20864,21 +20858,21 @@ ITS
 ITS
 UNIVERSITI TEKNOLOGI PETRONAS
 UGM
-Univ. Wijaya Kusuma
+university Wijaya Kusuma
 SMA Negeri 8
 SMP Negeri Pleret
 SDN kretek Lor
 ITS
 ITS
 M.Ts.Negeri Bojonegoro I
-WORLD MARITIME UNIV.
+WORLD MARITIME university
 ITS
 SMA
 SMP
 SD
-Australian Maritime College, University of Tasmania
-TOHOKU UNIV.
-TOHOKU UNIVERSITY
+Australian Maritime College, university of Tasmania
+TOHOKU university
+TOHOKU university
 ITS
 STIE WILWATIKTA SURABAYA
 ITB
@@ -20894,8 +20888,8 @@ SMEA NEGERI II
 SD NEGERI KEPUTIH
 SMP GATOTAN 2
 SMA MUHAMADYAH 2
-KOBE UNV.OF MERCAN.M
-NEWCASTLE UNIVERSITY
+KOBE university OF MERCAN.M
+NEWCASTLE university
 ITS
 SMA I
 SMPN I
@@ -20926,8 +20920,8 @@ SMP XI
 SD DAPENA I
 UGM
 ITS
-University Malaysia Pahang (UMP)
-Univ. Dr. Soetomo
+university Malaysia Pahang (UMP)
+university Dr. Soetomo
 SDN Pacar Keling
 SMP Mardi Putera
 SMA IPIEMS
@@ -20935,10 +20929,10 @@ ITB
 ITS
 ITS
 ITS
-Universitas Kebangsaan Malaysia
+universitas Kebangsaan Malaysia
 Khariswara
-KOBE UNIVERSITY
-MEMORIAL UNV.OF NEW FOUNDLAND
+KOBE university
+MEMORIAL university OF NEW FOUNDLAND
 ITS
 SMA
 SMP
@@ -20948,7 +20942,7 @@ SDN Gubeng I
 SMP Phaniswara
 SMAN 4
 Institut Teknologi Bandung
-UNIV.OF NEWCASTLE
+universityOF NEWCASTLE
 ITS
 SD SATSUIT TUBUN
 SMPN 7
@@ -21001,22 +20995,22 @@ ITS
 ITS
 Institut Teknologi Bandung
 Institut Teknologi Bandung
-HIROSHIMA UNIV.
+HIROSHIMA university
 ITS
 ITS
 ITS
 ITS
-UNIVERSITAS AIRLANGGA SURABAYA
+universitas AIRLANGGA SURABAYA
 SD TRITUNGGAL
 SMP NEGERI 15
 UJIAN PERSAMAAN SMA
 ITS
 ITS
-Universitas Airlangga
+universitas Airlangga
 SMA SWASTA PUTRA WIJAYA
 STIE Wilwatikta Surabaya
 UGM
-Universitas Gadjah Mada
+universitas Gadjah Mada
 IPB
 ITS
 SMAN VII
@@ -21028,8 +21022,8 @@ SMPN 6
 SD BAITURRAHMAN
 ITS
 STM 45 SURABAYA
-HIROSHIMA UNIVERSITY
-Universitas Indonesia
+HIROSHIMA university
+universitas Indonesia
 ITS
 SMA Putra Wijaya
 SD BHAYANGKARI
@@ -21037,13 +21031,13 @@ SLTP PRAJAMUKTI
 ITATS 
 UNSW
 ITS
-THE UNIV.OF NEW SOUTH WALES
+THE universityOF NEW SOUTH WALES
 UGM
 UNIBRAW
 SMAN I
 SMPN I PANEKAN
 SDN CEPOKO II
-UNIVERSITY OF MANCHESTER
+university OF MANCHESTER
 ITB
 ITS
 SMAN I
@@ -21057,7 +21051,7 @@ ITS
 SMAN II PARE
 SMPN PAPAR
 SDN MEJONO
-UNIVERSITY MALAYSIA PAHANG
+university MALAYSIA PAHANG
 ITS
 ITS
 SWASTA TRIYASA
@@ -21065,7 +21059,7 @@ SD NEGERI MANYAR I
 SMP DHANISWARA
 ITS
 ITS
-Kumamoto University
+Kumamoto university
 Hang Tuah
 UNSW
 ITS
@@ -21073,7 +21067,7 @@ TU GRAZ
 SD NEGERI V NO. 400
 Dr. SOETOMO
 DR. SOETOMO
-UNIVERSITAS DR. SOETOMO
+universitas DR. SOETOMO
 UNESCO-IHE
 ITS
 SDN II TAMBARANA
@@ -21114,18 +21108,18 @@ MIN
 MTs NEGERI
 MAN
 D-III 
-TECNICAL UNV.OF GRAZ
+TECNICAL university OF GRAZ
 ITB
 ITS
 SD KATOLIK
 SMP Katolik
 SMAN 1
-UNIVERSITAS INDONESIA
+universitas INDONESIA
 ITS
 SMUN II SURABAYA
 SMPN I SURABAYA
 SDN KETABANG I SURABAYA
-HIROSHIMA UNIVERSITY
+HIROSHIMA university
 ITB
 ITS
 SDN MOJOTENGAH II BARENG JOMBANG
@@ -21139,10 +21133,10 @@ UNAIR
 SMAN I
 SMPN I
 SDN CANDIREJO I
-Universitas Negeri Malang
+universitas Negeri Malang
 ITS
 ITS
-National Taiwan University of Science and Technology
+National Taiwan university of Science and Technology
 ITB
 ITS
 UGM
@@ -21154,7 +21148,7 @@ MADRASAH IBTIDAIYAH
 SMP NEGERI 2
 SMA NEGERI 1
 ITS
-UNIVERSITAS MUHAMMADIYAH
+universitas MUHAMMADIYAH
 UNAIR
 ITB
 ITS
@@ -21169,14 +21163,14 @@ MI NU TRATE
 ITS
 ITS
 Institut Teknologi Bandung
-UNIV.DE LA ROCHELE
+universityDE LA ROCHELE
 UNAIR
 MI. MUFIDAH
 SMPN 2
 SMAN 7
 ITS
-Kumamoto University
-Kumamoto University
+Kumamoto university
+Kumamoto university
 ITS
 ITS
 Universiti Teknologi Malaysia
@@ -21189,13 +21183,13 @@ NTNU Trondheim Norway
 SMP Swasta Taman Pend. Islam
 MI Maarif
 ITS
-Univ.Malaysia Pahang
+universityMalaysia Pahang
 ITB
 UNAIR
 SMAN 16
 SMPN I
 SDK WR Soepratman I
-Kanazawa University
+Kanazawa university
 SMA Swasta Remaja Surabaya
 SMA Swasta PGRI 18 Wonokromo Surabaya
 ITS
@@ -21220,8 +21214,8 @@ Negeri 6
 Negeri 6
 UNAIR
 ITS
-Hiroshima University
-Hiroshima University
+Hiroshima university
+Hiroshima university
 UGM
 ITS
 SMAN 2
@@ -21245,7 +21239,7 @@ SMU Magersari 3
 ITS
 ITS
 ITS
-Kumamoto University
+Kumamoto university
 SDN Kebraon II
 SMPN 16
 SMUN 9
@@ -21261,7 +21255,7 @@ UNAIR
 D1 PIKTI ITS Surabaya
 PIKTI ITS Surabaya
 D1 PIKTI ITS Surabaya
-Universitas Airlangga Surabaya
+universitas Airlangga Surabaya
 ITS Surabaya
 SD Muhammadiyah 7 Surabaya
 SLTP Negeri 12 Surabaya
@@ -21272,9 +21266,9 @@ SMUN 4 Surabaya
 D1 PIKTI ITS Surabaya
 D1 PIKTI ITS Surabaya
 ITS Surabaya
-Universitas Airlangga Surabaya
-Universitas Negeri Surabaya
-Universitas Bhayangkara Surabaya
+universitas Airlangga Surabaya
+universitas Negeri Surabaya
+universitas Bhayangkara Surabaya
 SMK Yayasan Pendidikan Ekonomi Kroya Cil
 SMKN 1 Surabaya
 SMKN 1 Surabaya
@@ -21314,8 +21308,8 @@ SMK Raden Patah Mojokerto
 SMA Muhammadiyah 1 Cilacap
 SMAN 19 Surabaya
 D1 PIKTI ITS Surabaya
-Univ. Narotama Surabaya
-Universitas Airlangga Surabaya
+university Narotama Surabaya
+universitas Airlangga Surabaya
 SMK PGRI 1 Kertosono Nganjuk
 SMK YPM 1 Taman Sidoarjo
 SMUN 4 Tambaksari Surabaya
@@ -21340,9 +21334,9 @@ SMA Diponegoro Ploso Jombang
 SMAN 1 Mantup Lamongan
 SMA Paket C Kacangan Berbek Nganjuk
 ITS Surabaya
-Universitas "WR Supratman" Surabaya
-Universitas Airlangga Surabaya
-Universitas Airlangga Surabaya
+universitas "WR Supratman" Surabaya
+universitas Airlangga Surabaya
+universitas Airlangga Surabaya
 D1 Wearnes Malang
 STM Negeri Sidoarjo
 STM Swasta Antartika Sidoarjo
@@ -21361,10 +21355,10 @@ SMU Yapita Surabaya
 SMA Swasta Tri Tunggal 3 Surabaya
 SMPN 2 Sambit Ponorogo
 SLTP Yapita Surabaya
-Universitas Airlangga Surabaya
-Universitas Wijaya Kusuma Surabaya
-Universitas Airlangga Surabaya
-UNIV. WIJAYA KUSUMA SURABAYA
+universitas Airlangga Surabaya
+universitas Wijaya Kusuma Surabaya
+universitas Airlangga Surabaya
+university WIJAYA KUSUMA SURABAYA
 SDN Kendal Tulungagung
 Sekolah Kesejahteraan Keluarga Tingkat A
 MI Nurul Hidayah Mojokerto
@@ -21377,18 +21371,18 @@ D1 PIKTI ITS Surabaya
 PENS ITS Surabaya
 D1 PAPSI ITS Surabaya
 ITS Surabaya
-D1 Sistem Informasi Universitas Airlangg
+D1 Sistem Informasi universitas Airlangg
 SMK Yayasan Pendidikan dan Sosial Ma'ari
 ITS Surabaya
 ITS Surabaya
 STIESIA Surabaya
-Universitas Brawijaya Malang
+universitas Brawijaya Malang
 ITS Surabaya
 ITS Surabaya
 PENS ITS Surabaya
 D1 PIKTI ITS Surabaya
-Universitas Airlangga Surabaya
-Universitas Airlangga Surabaya
+universitas Airlangga Surabaya
+universitas Airlangga Surabaya
 SMU Yapita Surabaya
 D1 PENS ITS Surabaya
 D1 PIKSI ITS Surabaya
@@ -21400,24 +21394,24 @@ ITS Surabaya
 SDN Serangan Mlarak Ponorogo
 MA Mujahidin Slumbung Ngadiluwih Kediri
 ITS Surabaya
-Universitas Gadjah Mada Yogyakarta
-Universitas Negeri Surabaya
-Universitas Negeri Surabaya
+universitas Gadjah Mada Yogyakarta
+universitas Negeri Surabaya
+universitas Negeri Surabaya
 D1 PIKTI ITS Surabaya
 SD Paket A Mulyorejo Surabaya
 SD Paket A Mulyorejo Surabaya
 SMUN 4 Surabaya
 SMA Yapita Sukolilo Surabaya
 NULL
-Universitas Airlangga Surabaya
+universitas Airlangga Surabaya
 SMA Swasta Bhinneka Bhakti Surabaya
 SMPN 2 Jombang
 MTsN Caruban Filial Saradan Madiun
 MTs Darul Hikmah Ngompak Ngawi
 MA Terpadu Al Falah Wonoanti Trenggalek
-Universitas Airlangga Surabaya
+universitas Airlangga Surabaya
 STIE MAHARDIKA
-Universitas Airlangga Surabaya
+universitas Airlangga Surabaya
 SMKN 3 Pacitan
 SLTPN 1 Perak Jombang
 STM Negeri Tuban
@@ -21429,57 +21423,57 @@ SMIP Swasta Satya Widya Surabaya
 SMA Paket C Pitu Ngawi
 SMPN Rejoso Nganjuk
 SDN Pelanglor 1 Ngawi
-Universitas Airlangga Surabaya
+universitas Airlangga Surabaya
 SMA Giki 3 Surabaya
 SMP Swasta Panglima Sudirman Surabaya
 SMK PANGLIMA SUDIRMAN
-UNIV. KARTINI SURABAYA
+university KARTINI SURABAYA
 SLTP Swasta Yapita Surabaya
-Universitas Negeri Surabaya
-Universitas Dr. Soetomo Surabaya
+universitas Negeri Surabaya
+universitas Dr. Soetomo Surabaya
 Sekolah Tinggi Ilmu Komunikasi AWS Surab
-Universitas Putra Bangsa Surabaya
+universitas Putra Bangsa Surabaya
 ITS Surabaya
 Prisma Profesional
 SMKN 1 Surabaya
 SMUN 1 Bangkalan
-Universitas Airlangga Surabaya
+universitas Airlangga Surabaya
 Akademi Kebidanan Yayasan RS Islam Surab
 Akademi Keperawatan Pemkab. Ponorogo
-Universitas Hang Tuah Surabaya
-Universitas Hang Tuah Surabaya
-Universitas Airlangga Surabaya
+universitas Hang Tuah Surabaya
+universitas Hang Tuah Surabaya
+universitas Airlangga Surabaya
 SMK 45 Surabaya
 Politeknik Kesehatan Surabaya
 SMF Sekesal Surabaya
 LP3I Surabaya
 El Rahma Education Centre
-Universitas Airlangga Surabaya
-Universitas Airlangga Surabaya
-Universitas Gadjah Mada Yogyakarta
-Universitas Brawijaya Malang
+universitas Airlangga Surabaya
+universitas Airlangga Surabaya
+universitas Gadjah Mada Yogyakarta
+universitas Brawijaya Malang
 Institut Teknologi Nasional Malang
 ITS Surabaya
 D1 PIKTI ITS Surabaya
-Universitas Narotama
+universitas Narotama
 SMP Swasta PGRI Donomulyo Malang
 ITS Surabaya
-Universitas Airlangga Surabaya
+universitas Airlangga Surabaya
 D1 PIKTI ITS Surabaya
 D1 PIKTI ITS Surabaya
 D1 PIKTI ITS Surabaya
 D1 PIKTI ITS Surabaya
-Universitas Negeri Surabaya
+universitas Negeri Surabaya
 NULL
 MI Darul Hikmah Jombang
 ITS Surabaya
-Universitas Widyagama Malang
-Universitas Narotama Surabaya
+universitas Widyagama Malang
+universitas Narotama Surabaya
 ITS Surabaya
-Universitas Airlangga Surabaya
+universitas Airlangga Surabaya
 ITS Surabaya
-Universitas PGRI Adi Buana
-Universitas Airlangga
+universitas PGRI Adi Buana
+universitas Airlangga
 PENS ITS Surabaya
 ITS Surabaya
 SMK PGRI 4 Surabaya
@@ -21527,10 +21521,10 @@ SR Salam
 SMPN Papar
 SMAN2
 ABA Satya Negara
-Univ. Muhammadiyah
-The University of Wales
+university Muhammadiyah
+The university of Wales
 ITS
-THE UNV.OF MELBOURNE
+THE university OF MELBOURNE
 KU LEUVEN
 ITB
 SR Kristen BPPK II
@@ -21549,7 +21543,7 @@ SMPN IV
 SMAN 1
 ITS
 ITS
-MINNESOTA UNIV.
+MINNESOTA university
 ITS
 ITS
 SMA
@@ -21557,10 +21551,10 @@ SMP
 SD
 ITS
 ITS
-UNIV.OF WISCONSIN
-UNIV.OF WISCONSIN
+universityOF WISCONSIN
+universityOF WISCONSIN
 ITS
-UNIVERSITY OF WISCONSIN MADISON US
+university OF WISCONSIN MADISON US
 WISCOSIN MADISON
 ITS
 SRN
@@ -21569,7 +21563,7 @@ SMAN
 ITS
 THE UIVERSITY OF BIRMINGHAM
 ITS
-WISCONSIN UNV.
+WISCONSIN university 
 ITS
 ITS
 ITS
@@ -21585,7 +21579,7 @@ UKSW
 SMA
 SMP
 SD
-UNV.OF MICHIGAN
+university OF MICHIGAN
 ITS
 STM
 SLTP
@@ -21596,7 +21590,7 @@ IAIN SUNAN AMPEL
 PGAN 6 TAHUN
 PGAA MUHAMMADIAH
 MI
-CALIFORNIA UNV.
+CALIFORNIA university 
 ITS
 IAIN SUNAN AMPEL
 MAAIN
@@ -21637,13 +21631,13 @@ ITS
 SRN
 SMPN
 SMAN
-UNIVERSITY OF SALFORD 
+university OF SALFORD 
 UNPAD
 SMEA
 SMEP
 SDN
 ECOLE SNTRALE DE N.
-UNIV.OF WINCONSIN
+universityOF WINCONSIN
 ITS
 ITS
 ITS
@@ -21658,25 +21652,25 @@ ITB
 SDN Beru II
 SMPN Wlingi
 SMAN IV
-UNIV.OF CINCINATI
-WISCONSIN UNIVERSITY
+universityOF CINCINATI
+WISCONSIN university
 ITB
 ITB
 UGM
-UNIV. ANDALAS
+university ANDALAS
 SMAN
 SMPN
 SD SALIBAWAN
 UNAND Padang
-HIROSHIMA UNV.
-HIROSHIMA UNV.
+HIROSHIMA university 
+HIROSHIMA university 
 ITS
-UNIV. FLORIDA
+university FLORIDA
 ITS
 STM
 SMP
 SR
-Universitas Of Sydney
+universitas Of Sydney
 ITS
 SDN Kebon Kidul
 SMPN III
@@ -21697,19 +21691,19 @@ SMPN I
 SDN SIMPANG I
 UI
 ITS
-UNV.OF WISCONSIN MADISON
-UNV.OF WISCONSIN MAD
+university OF WISCONSIN MADISON
+university OF WISCONSIN MAD
 ITS
 SD St.Joseph
 SMP St.Joseph
  SMA St. Louis
-Univ. of Wisconsin-Madison
+university of Wisconsin-Madison
 UGM
 ITS
 SMA II
 SMP II
 SDN
-Universitas Airlangga Surabaya
+universitas Airlangga Surabaya
 ENTPE de LETAT
 ITS
 SMAN II
@@ -21720,31 +21714,31 @@ ITB
 SDN Simpang II
 SMPN I
 SMAN II
-TEXAS AM UNIVERSITY
-UNIV.OF WINCONSIN
+TEXAS AM university
+universityOF WINCONSIN
 ITB
-UNIV.TOULOUSE III
-ENSG-UNV. PARIS VI
+universityTOULOUSE III
+ENSG-university  PARIS VI
 ITB
 SDN Sarangan
 SMPN III
 SMAN III
-Universitas Tolouse III
+universitas Tolouse III
 ITS
 SMAN VI
 SMPN VI
 SR BHAYANGKARI
 ENTEPE-LYON
-UNIVERSITAS TRISAKTI
+universitas TRISAKTI
 SMA SANTA URSULA I
 SMP SANTA URSULA
 SR SANTA URSULA
-Universitas Of Newcastle
+universitas Of Newcastle
 ITB
 ITS
 SD Negeri
 SMP Negeri
-University Of Antwerp
+university Of Antwerp
 UNSW
 ITB
 IHS-Rotterdam
@@ -21752,11 +21746,11 @@ ITS
 SDN Simpang
 SMPN I
 SMAN V
-LEHIGH UNIV.
-NORTHWESTERN UNIV.
+LEHIGH university
+NORTHWESTERN university
 ITB
-NORT CAROLINE STATE UNV.
-THE GEORGE WASHINGTON UNV.
+NORT CAROLINE STATE university 
+THE GEORGE WASHINGTON university 
 ITS
 ITS
 SMA ST.PAULUS
@@ -21772,7 +21766,7 @@ ITS
 ITS
 THE DELFT
 ITB
-UNIV.NEW BRUNSWICK
+universityNEW BRUNSWICK
 ITS
 SMAN II
 SMPN VI
@@ -21786,12 +21780,12 @@ MANHATTAN COLLEGE
 ITS
 UGM
 TOYO UNVERSITY
-COLORADO STATE UNV.
+COLORADO STATE university 
 ITB
 SMPN VI Malang
 SMAN III Malang
 Muhammadiyah I Malang
-COLORADO STATE UNIVERSITY
+COLORADO STATE university
 ITS
 ITS
 ITS
@@ -21812,7 +21806,7 @@ ITS
 ITS
 ITS
 ITS
-UNIV.OF STRATHCLYDE
+universityOF STRATHCLYDE
 ITS
 SMA II
 SMPN III
@@ -21822,10 +21816,10 @@ ITS
 SMAN
 SMPN I
 SDN II
-Universitas Brawijaya
-State University of Ghent
+universitas Brawijaya
+State university of Ghent
 Institut Teknologi Bandung
-UNV. OF MISSOURI
+university  OF MISSOURI
 ITS
 ITS
 ITS
@@ -21854,14 +21848,14 @@ Institut Teknologi Adhi Tama (ITATS)
 STM Negeri I 
 Sekolah Teknik Negeri X
 SDN Diponegoro
-UNV.LOUIS PATREUR
-UNV.LOUIS PASTEUR
+university LOUIS PATREUR
+university LOUIS PASTEUR
 ITS
 SDN
 SEKOLAH TEKNIK IV NEGERI
 SEKOLAH TEKNOLOGI MENENGAH NEGERI I
 FLORIDA UNIV
-FLORIDA UNIV.
+FLORIDA university
 ITS
 SD NEGERI
 SMP NEGERI
@@ -21882,7 +21876,7 @@ ITB
 SMA
 SMP
 SD
-UNV.DE RENNES
+university DE RENNES
 AIT
 ITB
 Madrasa Ibtidaiyah NU
@@ -21945,7 +21939,7 @@ SD NEGERI
 SMP NEGERI 9
 KPA NEGERI
 KPAA NEGERI
-UNV.NICESPHIA ANTIP.
+university NICESPHIA ANTIP.
 ITB
 SMAN II SURABAYA
 SMPN 1 Bangkalan
@@ -21975,8 +21969,8 @@ SDN
 KPA NEGERI
 SMU (IJAZAH PAKET C)
 ITS
-Universitas Airlangga Surabaya
-Universitas Airlangga Surabaya
+universitas Airlangga Surabaya
+universitas Airlangga Surabaya
 ITS
 ITS
 SMAN
@@ -22011,7 +22005,7 @@ ITS
 SD NEGERI KALIBOKOR I SURABAYA 
 SMP PETRA SURABAYA
 SMA NEGERI 5 SURABAYA
-UNIVERSITAS AIRLANGGA SURABAYA
+universitas AIRLANGGA SURABAYA
 SD TAMAN PURA INDONESIA
 SMP NEGERI 3
 SMA NEGERI 3
@@ -22022,8 +22016,8 @@ ITB
 SMAN I YOGYAKARTA
 SMPN BABAT
 SDN BABAT I
-UNIVERSITAS INDONESIA
-Universitas WR Supratman
+universitas INDONESIA
+universitas WR Supratman
 UNAIR
 ITS
 SMA
@@ -22034,7 +22028,7 @@ SDN Darmo III
 SMPN X
 STM Negeri I
 IKIP PGRI 
-KOBE UNIVERSITY
+KOBE university
 ITS
 STM N I
 SMPN II
@@ -22053,7 +22047,7 @@ SD NEGERI PAMEKASAN
 PGA 4 TAHUN
 PGA 6 TAHUN
 AKADEMISEKRETARIAT MALANG
-UNIVERSITAS DR SOETOMO
+universitas DR SOETOMO
 SDN PATJARKELING I SURABAYA
 SDN
 SMP NEGERI III
@@ -22076,7 +22070,7 @@ SD Taruna Nusa Harapan Mojokerto
 STM Negeri I
 SMP Taruna Nusa Harapan Mojokerto
 Surabaya
-STRATHCLYDE UNIV.
+STRATHCLYDE university
 ITS
 SMAN I
 SMPN I
@@ -22090,7 +22084,7 @@ ITS
 SDN
 ST NEGERI
 Ujian Persamaan SMA
-Curtin University of Technology
+Curtin university of Technology
 ITS
 SMA
 SMP
@@ -22098,15 +22092,15 @@ SD
 SD Negeri
 SLTP Negeri
 SMA UPRES
-Universitas Sunan Giri Surabaya
-Universitas Sunan Giri Surabaya
+universitas Sunan Giri Surabaya
+universitas Sunan Giri Surabaya
 SD NEGERI NO. 136 KETANDAN
 KPA NEGERI
 KPAA NEGERI
 SD NEGERI
 SMP PGRI GOTONG ROYONG
 KPAA NEGERI
-UNIVERSITAS WR SUPRATMAN
+universitas WR SUPRATMAN
 SD SUWASTA
 STM SIANG
 SMP NEGERI X
@@ -22123,7 +22117,7 @@ SDN Bronggalan
 SMP Jayawarsa
 KPAA
 Sekolah Tinggi Ilmu Ekonoki Wilwatikta
-DELF UNIV.OF TECH.
+DELF universityOF TECH.
 ITB
 ITS
 SMAN VIII
@@ -22134,7 +22128,7 @@ Sekolah Teknologi Berdikari
 SDN 148 Patjar Kembang I
 ITB
 ITS
-UNIVERSITAS 17 AGUSTUS 1945 SURABAYA
+universitas 17 AGUSTUS 1945 SURABAYA
 KKPA NEGERI SURABAYA
 ST NEGERI II KEDIRI
 SDN DJUWONO
@@ -22160,7 +22154,7 @@ UNMER
 SMP Kepanjen Satu Surabaya
 SDN 272 Krembangan Surabaya
 SMAN 8 Surabaya
-SHEFFIEL UNIV.
+SHEFFIEL university
 ITS
 SMPP N
 SMPK ST.YOSEF
@@ -22213,12 +22207,12 @@ SD NEGERI GUYANGAN
 SMP SWASTA PANCASILA
 SMA NEGERI
 IKIP
-UNIVERSITY OF MANITOBA
+university OF MANITOBA
 ITS
 SMAN VI
 SMPN I
 SDN ALUN-ALUN II
-Universitas Putra Bangsa
+universitas Putra Bangsa
 SDN Kedung Anyar V Surabaya
 SMPN 3 Surabaya
 SMAN V Surabaya
@@ -22234,7 +22228,7 @@ KPA Negeri
 SDN Sidomulyo
 SD Lely
 SMP Jenggala Sidoarjo
-Universitas Brawijaya
+universitas Brawijaya
 ITS
 ITB
 KKPA
@@ -22256,7 +22250,7 @@ SD. NEGERI
 SMP NEGERI BATAT
 SMA NEGERI 5
 ITB
-UNIV. ANDALAS
+university ANDALAS
 SMAN 1
 SMPN 1
 SDN 2
@@ -22266,7 +22260,7 @@ SDN No. 3
 SDN KEDUNGRUKEM II
 SMEP NEGERI SURABAYA
 SMEA TRISAKTI SURABAYA
-UNIVERSITAS SUNAN GIRI SURABAYA
+universitas SUNAN GIRI SURABAYA
 YAYASAN PERGURUAN 17 MALANG
 ST NEGERI 3 MALANG
 SD NEGERI PRINGO MALANG
@@ -22277,8 +22271,8 @@ SMPN I
 SMAN II
 ITS
 ITS
-UNV.DE TECH.COMPEIGN
-UNV.DE TECH.COMPEIGN
+university DE TECH.COMPEIGN
+university DE TECH.COMPEIGN
 ITS
 SD NEGERI 6 KLUMUTAN SARADAN
 KPA NEGERI SURABAYA
@@ -22289,27 +22283,27 @@ SMAN
 SMPN BANDUNG
 SDN PAKEL
 ITB Bandung
-Universitas Brawijaya
+universitas Brawijaya
 ITS
 ITS
 ITS
-University of Stratchclyde
-University of Ghent
-Universitas Gadjah Mada
+university of Stratchclyde
+university of Ghent
+universitas Gadjah Mada
 SDN BUDURAN
 SMP NEGERI I SIDOARJA
 STM TRISAKTI
 SDN BANYU URIP I
 SMEP NEGERI SURABAYA
 SMEA NEGERI I
-UNIVERSITAS BRAWIJAYA
+universitas BRAWIJAYA
 UNAIR
 ITS
 SMAN 2
 SMPN 3
 SDN ENDRAKILA
-HIROSHIMA UNV.
-HIROSHIMA UNV.
+HIROSHIMA university 
+HIROSHIMA university 
 ITS
 SMAN III
 SMPN II
@@ -22318,9 +22312,9 @@ SD NEGERI WONOKROMO
 SMP BHAYANGKARI
 SMA PPSP IKIP SURABAYA
 SEKOLAH TINGGI KEUANGAN SURABAYA
-HIROSHIMA UNV.
+HIROSHIMA university 
 ITS
-UNV.DE TECH.DE COMP.
+university DE TECH.DE COMP.
 ENSAM
 ITB
 ITS
@@ -22334,11 +22328,11 @@ UKSW
 SMKK IBU KARTINI
 SMP MARIA
 SD SANTA YUSUF
-Universitas Negeri Surabaya
+universitas Negeri Surabaya
 SD NEGERI INDRAPURA I
 SMP COLOMBO
 SMA NEGERI VIII
-UNIVERSITAS PUTRA BANGSA
+universitas PUTRA BANGSA
 IKIP NEGERI
 PGA N
 PGA N
@@ -22348,25 +22342,25 @@ SMP PANCASILA
 KPAA NEGERI
 ITS
 ITS
-Universitas W.R Supratman 
+universitas W.R Supratman 
 UI
 ITS
 ITS
 ITS
 SMP Negeri I
 SMPP 
-Sarjana Univ. Brawijaya
+Sarjana university Brawijaya
 S2 Program Pascasarjana UNTAG 17 Agst 1945
 SDN No. 26 Jungcangcang
-OSAKA CITY UNV.
-OSAKA CITY UNV.
+OSAKA CITY university 
+OSAKA CITY university 
 ITS
 KPAA
 Akademi Akutansi YKPN
 SD PENDIDIKAN KRISTEN
 SMP Kristen
 SMEA NEGERI II
-UNIVERSITAS JOS SUDARSO
+universitas JOS SUDARSO
 ITS
 SMAN V
 SMPN 1
@@ -22375,14 +22369,14 @@ KPAA KODYA SURABAYA
 SDN karanggayam I
 KPA Negeri Surabaya
 UMIST
-University of Manchester
+university of Manchester
 ITS
 SMAN I
 SMPN I
 SDN KARANGDUAK
-University of Manchester
-UNV.OF STRATHCLYDE
-UNV.OF NEW SOUTHWALE
+university of Manchester
+university OF STRATHCLYDE
+university OF NEW SOUTHWALE
 ITS
 SDN 6 TAHUN
 SMP NEGERI
@@ -22393,9 +22387,9 @@ TUMAPEL BERBANTUAN SURABAYA
 IKIP PGRI SURABAYA
 ITS
 UNIBRAW
-UNV.G.PADERBON
+university G.PADERBON
 ITS
-Sophia University, Tokyo, Japan
+Sophia university, Tokyo, Japan
 ITS
 STM Negeri
 ST Negeri
@@ -22413,8 +22407,8 @@ SDN Kebet
 SD NEGERI
 SMP NEGERI 9
 STM Pembangunan
-NEWCASTLE UNIVERSITY
-NEWCASTLE UNIVERSITY
+NEWCASTLE university
+NEWCASTLE university
 ITS
 SMP I
 SD
@@ -22426,12 +22420,12 @@ SMAN
 SMPN I
 SDN
 ITS 
-UNV. OF GLASGOW
+university  OF GLASGOW
 ITS
 SMAN
 SMP PENDOWO
 SD PENDOWO
-UNV. OF GLASGOW
+university  OF GLASGOW
 ITS
 ITS
 SMAN VI
@@ -22460,9 +22454,9 @@ ITS
 SMAN III
 SD SARANGAN I
 SMPN III
-UNV.LOUIS PASTEUR
+university LOUIS PASTEUR
 INSTITUT TEKNOLOGI BANDUNG
-UNIVERSITAS ANDALAS
+universitas ANDALAS
 SMAN 2 PADANG
 SMPN DANGUNG-DANGUNG
 SDN 4 KUBANG
@@ -22472,12 +22466,12 @@ UNS
 SMAN
 SMPN
 SD TEGALLODJI I
-HIROSIMA UNIVERSITY
-HIROSIMA UNIVERSITY
+HIROSIMA university
+HIROSIMA university
 ITS
 KPAA
-UNV.OF NEWCASTLE U.T
-UNV.OF NEWCASTLE U.T
+university OF NEWCASTLE U.T
+university OF NEWCASTLE U.T
 ITS
 SMA SANTAMARIA
 SMPK ST.PAULUS
@@ -22490,11 +22484,11 @@ SMEAN
 KPAA Negeri Surabaya
 SMP Dharma Bhakti
 SDN Tandes I Surabaya
-UNIV.DAIX MARSEILLE
-UNV.OF MELBOURNE
+universityDAIX MARSEILLE
+university OF MELBOURNE
 ITB
 SMA-II Malang
-University of Melbourne
+university of Melbourne
 UNEJ
 SPGN
 SMPN KALANGBRET
@@ -22507,13 +22501,13 @@ ITS
 SDN NGAGEL I
 SMP JOYOBOYO
 SMAN VII
-STRATHCLYDE UNV.
+STRATHCLYDE university 
 ITS
 SMA
 SMP
 SD
 ITS
-Universitas Jember
+universitas Jember
 Djungtjangtjang Utara
 Negeri I
 Sekolah Menengah Pembangunan  Persiapan
@@ -22522,9 +22516,9 @@ SMAN III
 SMPN II
 SDN SETYO BUDI
 SD 
-UNIV.OF LONDON
+universityOF LONDON
 ITS
-Universitas Of Melbourne
+universitas Of Melbourne
 Institut Teknologi Sepuluh Nopember
 ITS
 SDN
@@ -22541,8 +22535,8 @@ SDN
 SMP NEGERI
 SMA NEGERI
 SEKOLAH TINGGI KEUANGAN
-MEMORIAL UNV.
-HIROSHIMA UNV.
+MEMORIAL university 
+HIROSHIMA university 
 ITS
 SMAN
 SMPN II
@@ -22564,15 +22558,15 @@ ITB
 SD Negeri Mukuh III
 SMP Negeri Papar
 SMA Mahasiswa
-UNIVERSITAS 17 AGUSTUS 1945 SURABAYA
+universitas 17 AGUSTUS 1945 SURABAYA
 SD Sluke
 Paket B
 SDN N0. 7 SRAGEN
 STN NO. I SARAGEN
 STM SUKOWATI
 IKIP PGRI SURABAYA
-UNV.STQLM
-UNV.STQLM
+university STQLM
+university STQLM
 ITS
 IX
 WAHID HASYIM
@@ -22592,12 +22586,12 @@ SDN DJADJAG II, BANYUWANGI
 STM Antartika 
 ITB
 ITS
-CATHL.UNV.OF LEUVEN
-CATHL.UNV.OF LEUVEN
+CATHL.university OF LEUVEN
+CATHL.university OF LEUVEN
 ITS
 Paket C
-UNIV.NEW BRUNSWICK
-UNIV.NEW BRUNSWICK
+universityNEW BRUNSWICK
+universityNEW BRUNSWICK
 ITB
 SMAN 2
 SMPN 10
@@ -22607,7 +22601,7 @@ Sekolah Tinggi Jaya Negara
 Sekolah Menengah Pembangunan Persiapan Negeri Kediri
 The Delft
 ITS
-UNV.OF QUEENSLAND
+university OF QUEENSLAND
 ITB
 ITB
 UNIVERSITAT HANNOVER
@@ -22634,7 +22628,7 @@ SMAN 1
 SDN KUTUK I
 STN WARU
 STM NEGERI III SURABAYA
-UNIVERSITY OF RORKEE
+university OF RORKEE
 ITS
 SMAN 6
 SDN KEDURUS V
@@ -22712,8 +22706,8 @@ SMPN I
 SD PAWIYATAN DAHA II
 UNAIR
 ITS
-Universitas Indonesia
-Kochi University Of Technology
+universitas Indonesia
+Kochi university Of Technology
 SD 6 TAHUN BERSUBSIDI
 SMP MUHAMMADIYAH II SURABAYA
 KPAA
@@ -22724,7 +22718,7 @@ SMA PEMBANGUNAN PERSIAPAN NEGERI
 SMPN I
 SDN TULUNGAGUNG III
 SDN Tempelsukorejo II Surabaya
-Universitas Indonesia
+universitas Indonesia
 ITS
 SMPP Negeri
 SMPN I
@@ -22741,17 +22735,17 @@ SDN KRAJAH
 ITB
 ITB
 ITB
-UNIVERSITAS WR SUPRATMAN SURABAYA
+universitas WR SUPRATMAN SURABAYA
 MUHAMMADIYAH I SURABAYA
-Birmingham University
+Birmingham university
 The delft
 ITS
 SDN Karangpuri Wonoayu
 SMP Katholik 
 SMEA Persiapan Taman
-UNIV. WR. SUPRATMAN
-UNIV.WIJAYA PUTRA SBY
-STRATHCLYDE UNIV.
+university WR. SUPRATMAN
+universityWIJAYA PUTRA SBY
+STRATHCLYDE university
 ITS
 SMAN III
 SMPN II
@@ -22765,7 +22759,7 @@ MMT ITS
 SD TAMAN SISWA
 SMP NEGERI VIII
 SMA NEGERI 9
-UNIVERSITAS PUTRA BANGSA
+universitas PUTRA BANGSA
 UGM
 ITS
 SMAN 3 Surakarta
@@ -22778,8 +22772,8 @@ ITS
 SMAN VI
 SMP TAS
 SDN SAWAHAN II
-University Of Newcastle 
-University Of Ghent
+university Of Newcastle 
+university Of Ghent
 ITB
 UMIST MANCHESTER
 ITB
@@ -22808,7 +22802,7 @@ SDN KEJAMBON I
 ST BUBUTAN SURABAYA
 Paket C
 ITB
-UNV.ANDALAS
+university ANDALAS
 SMAN 2
 SMPN 7
 SDN 14
@@ -22839,12 +22833,12 @@ SD MUHAMMADIYAH
 SMP NEGERI VI
 SMA MUHAMMADIYAH
 STIMI
-UNIVERSITAS WR SUPRATMAN
+universitas WR SUPRATMAN
 SDN SALAK II
 SMP NEGERI IX
 SMA NEGERI I
-Universitas Muhammadiyah
-Universitas Sebelas Maret
+universitas Muhammadiyah
+universitas Sebelas Maret
 ITB
 ITS
 UNPAD
@@ -22852,8 +22846,8 @@ SMAN BANJAR
 SMPN BANJAR
 SDN BANJAR
 Jurusan Matematika FMIPA UGM
-UNV.CAROLO
-UNV.CAROLO
+university CAROLO
+university CAROLO
 ITS
 SDN KALIDAMI II
 SMP MUHAMMADIYAH V
@@ -22880,7 +22874,7 @@ STM PEMBANGUNAN
 SD TAMAN PELAJAR
 SMP TIRTA JAYA
 STM NEGERI I
-UNIV.OF WOLLONGONG
+universityOF WOLLONGONG
 ITS
 Institut Teknologi Sepuluh Nopember
 Institut Teknologi Sepuluh Nopember
@@ -22888,8 +22882,8 @@ SD NEGERI GEDSNG PORONG
 UJIAN PERSAMAAN SMP.
 SMA Yayasan Pendidikan Pancasila
 SMEP PORONG
-UNV.OF STRATHCLYDE
-UNV.OF STRATHCLYDE
+university OF STRATHCLYDE
+university OF STRATHCLYDE
 ITS
 SMA N I
 SMP MUHAMMADIYAH V
@@ -22902,13 +22896,13 @@ UNPAD
 SMAN IV
 SMP "PMB"
 SD "YPP"PENDOPO
-UNV.HENRI POINCARE
+university HENRI POINCARE
 ITS
 SMPN IV
 HANG TUAH I
 SMPP
-HOKAIDO UNIVERSITY
-RYUKYU UNIVERSITY
+HOKAIDO university
+RYUKYU university
 UGM
 SMA Swasta Pancasila
 SMP Swasta Eka Jaya
@@ -22922,7 +22916,7 @@ Negeri Panggul I
 SDN DARMO
 SMP ST. MARIA
 SMA ST. MARIA
-UNIVERSITAS DR. SOETOMO
+universitas DR. SOETOMO
 SD NEGERI
 SMP NEGERI
 KPAA NEGERI
@@ -22933,7 +22927,7 @@ Unair
 SD Sidokerto
 PGAN 4 Tahun
 KPAA Negeri Surabaya
-Univ. Wijaya Kusuma
+university Wijaya Kusuma
 SD SRIWIJAYA I
 SMP NEGERI III
 SMA PRATICA
@@ -22942,7 +22936,7 @@ ITS
 SMAK ST.ANGELA
 SMPK ST.ANGELA
 SDN I LEMBANG
-Universitas WR Supratman Surabaya
+universitas WR Supratman Surabaya
 SMP Daya
 SDN Bentengmiring II
 STM Triyasa 
@@ -22959,15 +22953,15 @@ SMPP
 SDN PULOREJO
 ST NEGERI  I
 STM NEGERI  I
-UNIVERSITAS WR SUPRATMAN
+universitas WR SUPRATMAN
 SDN TAMBAKSARI VI
 ITB
 ITS
 SMAN 
 SMPN
 SD KARTINI
-UNV.OF NEWCASTLE
-UNV.OF NEWCASTLE
+university OF NEWCASTLE
+university OF NEWCASTLE
 ITS
 SMA
 SMP
@@ -22981,7 +22975,7 @@ ITS
 DOROKANDANG II
 SMPN LASEM
 SMAN REMBANG
-UNV.OF STRATHCLYDE
+university OF STRATHCLYDE
 UNIBRAW
 STM N
 STN IV
@@ -23014,8 +23008,8 @@ SMAN
 SD SANTA MARIA
 SMP Negeri
 SMPP
-Universitas Darmstadt
-Universitas Darmstadt
+universitas Darmstadt
+universitas Darmstadt
 ITS
 SDN Kapaskrampung Wetan I
 SMPN I
@@ -23037,7 +23031,7 @@ UGM
 SMPP NEGERI
 SMPN XII
 SMN SIMPANG 1
-UNIV.OF QUEENSLAND
+universityOF QUEENSLAND
 ITS
 SMAN II
 SMPN II
@@ -23048,8 +23042,8 @@ ITB
 SMAN 3
 SMP Katholik Santa Maria II
 SD Santa Maria II
-UNV.OF NEWCASTLE
-UNV.OF NEWCASTLE
+university OF NEWCASTLE
+university OF NEWCASTLE
 ITS
 SMAN I-II
 SMPN II
@@ -23057,7 +23051,7 @@ SD INST.INONESIA
 SDN. TANGGULANGIN I
 SMP JOYOBOYO
 UJIAN PERSAMAAN SMA
-UNIVERSITAS BHAYANGKARA
+universitas BHAYANGKARA
 ITS
 SD NEGERI
 UNSW
@@ -23066,7 +23060,7 @@ Negeri Sawahan Surabaya
 Negeri Sawahan Surabaya
 DIE UNIVER.KARLSRUHE
 Institut Teknologi Bandung
-Universitas Brawijaya
+universitas Brawijaya
 INPL
 INPL
 ITS
@@ -23075,11 +23069,11 @@ IPB
 SMAN IX
 SMPN III
 SDN SEMARANG I
-LECESTER UNIV.
-NEWCASTLE UT UNIV.
+LECESTER university
+NEWCASTLE UT university
 ITB
 SDN PUCANG ANOM I
-UNIV.OF BRINGMINGHAM
+universityOF BRINGMINGHAM
 ITB
 ITB
 UNAIR
@@ -23105,7 +23099,7 @@ SDN Darussalam
 SMP Hang Tuah
 STM Siang Bersubsidi
 S1 ITATS
-UNV.OF STRATHCLYDE
+university OF STRATHCLYDE
 ITS
 SDN
 SMP Nusantara
@@ -23114,17 +23108,17 @@ ITS
 SD NEGERI
 SLTP NEGERI
 SWASTA
-UNIVERSITAS YOS SUDARSO
+universitas YOS SUDARSO
 SDN NEGERI
 SMP NEGERI
 SMA NEGERI 8 SURABAYA
-Universitas Brawijaya
+universitas Brawijaya
 IHE DELFT
 ITS
 SDN BANDJARAN III
 SMPN V
 SMAN II
-Universitas Gadjah Mada
+universitas Gadjah Mada
 SD NEGERI KERTAJAYA I
 SMP PRACTICA
 STM PEMBANGUNAN
@@ -23134,16 +23128,16 @@ Dep.Pen. Kebudayaan
 SD 6 TAHUN
 SMP Lengkong
 Ujian Persamaan SMA
-HIROSHIMA UNV.
+HIROSHIMA university 
 ITS
-Hiroshima University Jepang
+Hiroshima university Jepang
 IPGP PARIS
 ITB
 ITB
 SMPP NEGERI
 SMPN XII
 SDK SANTA CLARA
-Universitas Airlangga
+universitas Airlangga
 SAM Negeri 9
 SD NEGERI KEDUNGSARI I
 SMP  BHAYANGKARI EMBONG SAWO
@@ -23156,7 +23150,7 @@ SDN WONOREJO II
 UNAIR
 ITS
 ITS
-Kyoto University
+Kyoto university
 TH Darmstadt
 Puri I
 Puri I Mojokerto
@@ -23179,7 +23173,7 @@ Gubeng Airlangga I
 SDN WONOREJO I
 SMP Negeri 2 Surabaya
 sma lppuk surabaya
-UNIVERSITAS NAROTAMA
+universitas NAROTAMA
 sma negeri 5 surabaya
 KPAN Sawahan Surabaya
 SD Mergoyoso Tegalsari Surabaya
@@ -23188,7 +23182,7 @@ SMPN II
 SDN Kebonrojo II
 SD DHARMA PUTRA
 UGM
-UNIV. WASEDA
+university WASEDA
 ITB
 SMAN
 SMP PERSATUAN
@@ -23209,12 +23203,12 @@ ITS Surabaya
 UTC-COMPIEGNE
 UTC-COMPIEGNE
 ITS
-MEMORIAL UNIVERSITY OF NEWFOUNDLAND
+MEMORIAL university OF NEWFOUNDLAND
 ITS
 SMAN 2
 SMPN 3
 SDN ALUN-ALUN IV
-MEMORIAL UNIVERSITY
+MEMORIAL university
 SDK BANDUNG
 SMP NEGERI
 SAIG ITB
@@ -23268,7 +23262,7 @@ SEKOLAH PEMBANGUNAN
 SDN SEROJA
 SMP PERINTIS
 PPSP IKIP SURABAYA
-TECH.UNIV. BERLIN
+TECH.university BERLIN
 ITB
 ITS
 SMAN PURWOREJO
@@ -23294,7 +23288,7 @@ ITS
 SMA PEMBANGUNAN PERSIAPAN
 SMPN
 SDN KEPATIHAN II
-Univ. Yos Sudarso
+university Yos Sudarso
 SMEA Tumapel Berbantuan
 SD MBADIUL ULUM
 SMP NEGERI 11
@@ -23305,7 +23299,7 @@ SMA MAHASISWA
 SD NEGERI
 SMP NEGERI
 SMA NEGERI
-UNIVERSITAS DARUL ULUM
+universitas DARUL ULUM
 SD NEGERI SEMPU II
 ST NEGERI
 STM NEGERI
@@ -23322,12 +23316,12 @@ ITS
 SD Muhammadiyah I
 SMPN I
 SMAN
-Universitas Terbuka
+universitas Terbuka
 SD Yayasan Kesejahteraan Masyarakat
 SMP GIKI
 STM Siang Bersubsidi
-Universitas Ottawa
-University Of Roorkee
+universitas Ottawa
+university Of Roorkee
 ITS
 STM KAL
 INPL DE LORAINE
@@ -23355,7 +23349,7 @@ SMA Negeri 2
 Unair
 INS.NAT.POLYTEC D.L
 ITB
-UNV.ANDALAS
+university ANDALAS
 SMAN I
 SMPN TANJUNG UBAN
 SDN II TANJUNG UBAN
@@ -23369,8 +23363,8 @@ SLTP
 SD NEGERI
 SMP. Negeri
 SMA NEGERI
-Curtin Univ. of Technology
-Universitas Indonesia
+Curtin university of Technology
+universitas Indonesia
 ITS
 SMA Negeri
 SMP Negeri III
@@ -23405,11 +23399,11 @@ SMP NEGERI LOROK PACITAN
 Dupak Baru
 Negeri V
 Negeri 6
-Univ. Narotama
-Universitas W.R. Supratman
+university Narotama
+universitas W.R. Supratman
 SDN
 UJIAN PERSAMAAN SMP
-HIROSHIMA UNIV.
+HIROSHIMA university
 TOKYO INST.OF TECH.
 ITS
 ITB
@@ -23430,7 +23424,7 @@ ITS
 SMAN X
 SMPN XII
 SDN MENUR PUMPUNGAN
-UNIVERSITAS W.R. SUPRATMAN SURABAYA
+universitas W.R. SUPRATMAN SURABAYA
 ITB
 ITS
 SDN MUHAMMADIYAH PORONG
