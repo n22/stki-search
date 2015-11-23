@@ -1,14 +1,22 @@
 __author__ = 'hamdiahmadi'
 
-import pymysql
+import MySQLdb
 
-class db():
+class restrict():
+    def __init__(self):
+        pass
+
+    def getListTabelNCol(self):
+        
+        return
+
+class db(restrict):
 
     def __init__(self):
         pass
 
     def openConnection(self,addrs,users,passwords,dbNames):
-        return pymysql.connect(passwd=passwords,db=dbNames,host=addrs,user=users)
+        return MySQLdb.connect(passwd=passwords,db=dbNames,host=addrs,user=users)
 
     def execute(self,cursor,command):
         return cursor.execute(command)
@@ -21,6 +29,8 @@ class db():
 
     def getDataBase(self,port,user,password,dbName):
         db = self.openConnection(addr,user,password,dbName)
+        listTabelNCol = restrict.getListTabelNCol(self)
+        cursor = db.cursor()
         return
 
 
