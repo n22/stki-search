@@ -20,7 +20,7 @@ class db():
         return cursor.fetchall()
 
     def getDataBase(self,port,user,password,dbName):
-        self.openConnection(addr,user,password,dbName)
+        db = self.openConnection(addr,user,password,dbName)
         return
 
 
