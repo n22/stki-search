@@ -52,7 +52,8 @@ class autoCorrect():
         self.NWORDS = self.train(self.words(file('big.txt').read()))
         self.alphabet = 'abcdefghijklmnopqrstuvwxyz'
 
-    def words(self,text): return re.findall('[a-z]+', text.lower())
+    def words(self,text):
+        return re.findall('[a-z,0-9]+', text.lower())
     def train(self,features):
         model = collections.defaultdict(lambda: 1)
         for f in features:
@@ -73,6 +74,11 @@ class autoCorrect():
       return set(w for w in words if w in self.NWORDS)
 
     def correct(self,word):
+        try:
+            int(word)
+            return word
+        except:
+            pass
         candidates = self.known([word]) or self.known(self.edits1(word)) or self.known_edits2(word) or [word]
         return max(candidates, key=lambda w: self.NWORDS[w])
 
@@ -147,7 +153,6 @@ class trie(excel):
         tries = self.insertTrie()
         res = ''
         sen = ''
-
         x = 0
         while x <= len(lists)-1:
             dictionary = tries
@@ -186,9 +191,8 @@ class tolerance(synonim,autoCorrect,query,trie):
         password = "stki2015"
         dbName = "stki"
         words = autoCorrect.getAutoCorrect(self,words)
-        return trie.searchTrie(self,words)
-        # query.getQuery(self,words,addr,user,password,dbName)
-
+        return words = trie.searchTrie(self,words)
+        return query.getQuery(self,words,addr,user,password,dbName)
 
 if __name__ == '__main__':
     q = tolerance()
