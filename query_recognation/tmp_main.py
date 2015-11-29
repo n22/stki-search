@@ -1,6 +1,6 @@
 __author__ = 'hamdiahmadi'
 
-
+import pymysql
 import xlwt
 import xlrd
 from xlutils.copy import copy
@@ -15,6 +15,36 @@ class excel():
         excel = xlrd.open_workbook(filename=filePath)
         dicts = excel.sheet_by_index(0)
         return dicts
+
+class query():
+    def __init__(self):
+        pass
+
+    def openingConnection(self,addrs,users,passwords,dbNames):
+        return pymysql.connect(passwd=passwords,db=dbNames,host=addrs,user=users)
+
+    def executing(self,cursor,command):
+        return cursor.execute(command)
+
+    def closingConnection(self,cursor):
+        return cursor.close()
+
+    def fetchingAll(self,cursor):
+        return cursor.fetchall()
+
+    def getQuery(self,words,addr,user,password,dbName):
+        db = self.openingConnection(addr,user,password,dbName)
+        query_from = []
+        query_where = []
+        cursor = db.cursor()
+        for word in words.split():
+            sql = 'select *,count(*) as cnt from dictionary where keyword like "' +word+ '" group by table_source,column_source order by cnt desc'
+            self.executing(cursor,sql)
+            res = self.fetchingAll(cursor)
+            for y in res:
+                print y
+        query = ''
+        return query
 
 class autoCorrect():
 
@@ -56,7 +86,7 @@ class autoCorrect():
         s = ' '.join(self.correct(word) for word in self.words(word_input))
         return s
 
-class synonim(excel):
+class synonim(excel,query):
     def __init__(self):
         pass
 
@@ -183,7 +213,7 @@ class trie(excel):
         res = self.deleteRedundance(res)
         return res
 
-class tolerance(synonim,autoCorrect,trie):
+class tolerance(synonim,autoCorrect,query,trie):
 
     def __init__(self):
         autoCorrect.__init__(self)
